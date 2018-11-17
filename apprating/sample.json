@@ -1,0 +1,45 @@
+[
+  {
+    "app_id":"shige.tajima.dogdash6",
+    "title":"SuperDogBoy",
+    "developer_name":"shige111",
+    "category":"GAME_CASUAL",
+    "free":false,
+    "version_code":1,
+    "version_string":"1.0",
+    "installation_size":14654523,
+    "downloads":0,
+    "star_rating":0.0,
+    "snapshot_date":"2014-10-31",
+    "metadata_url":"https://archive.org/download/playdrone-metadata-2014-10-31-19/shige.tajima.dogdash6.json"
+  },
+  {
+    "app_id":"vercoop.JUNGAMCHURCH.app",
+    "title":"ì •ì•”êµ�íšŒ",
+    "developer_name":"CTS cBroadcasting",
+    "category":"MEDIA_AND_VIDEO",
+    "free":true,
+    "version_code":116,
+    "version_string":"1.98.81",
+    "installation_size":6312597,
+    "downloads":0,
+    "star_rating":0.0,
+    "snapshot_date":"2014-10-31",
+    "metadata_url":"https://archive.org/download/playdrone-metadata-2014-10-31-19/vercoop.JUNGAMCHURCH.app.json",
+    "apk_url":"https://archive.org/download/playdrone-apk-19/vercoop.JUNGAMCHURCH.app-116.apk"
+  },
+  {
+    "app_id":"world.wide.manhunt",
+    "title":"World Wide Manhunt",
+    "developer_name":"Norsman Industries",
+    "category":"GAME_PUZZLE",
+    "free":false,
+    "version_code":1,
+    "version_string":"1.0",
+    "installation_size":29993539,
+    "downloads":0,
+    "star_rating":0.0,
+    "snapshot_date":"2014-10-31",
+    "metadata_url":"https://archive.org/download/playdrone-metadata-2014-10-31-19/world.wide.manhunt.json"
+  }
+]

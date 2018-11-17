@@ -1,0 +1,4 @@
+app_names/all_apps.json
+venv/
+.idea/
+__pycache__/*

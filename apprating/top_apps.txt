@@ -1,0 +1,1559 @@
+App Name|Package Name|Company|Category|Price|Platform|Downloads|Rating
+Facebook|com.facebook.katana|Facebook|Social|Free|Android|78988863|4.064
+WhatsApp Messenger|com.whatsapp|WhatsApp Inc.|Communication|Free|Android|70629425|4.4
+Instagram|com.instagram.android|Instagram|Social|Free|Android|68317231|4.513
+Clash of Clans|com.supercell.clashofclans|Supercell|Strategy|Free|Android|45297190|4.602
+Clean Master- Space Cleaner & Antivirus|com.cleanmaster.mguard|Cheetah Mobile|Tools|Free|Android|43190650|4.658
+Subway Surfers|com.kiloo.subwaysurf|Kiloo|Arcade|Free|Android|28118811|4.492
+YouTube|com.google.android.youtube|Google LLC|Video Players|Free|Android|27114893|4.293
+Security Master - Antivirus, VPN, AppLock, Booster|com.cleanmaster.security|Cheetah Mobile (AppLock & AntiVirus)|Tools|Free|Android|25000152|4.654
+Clash Royale|com.supercell.clashroyale|Supercell|Strategy|Free|Android|23607046|4.553
+Candy Crush Saga|com.king.candycrushsaga|King|Casual|Free|Android|22902595|4.434
+UC Browser - Fast Download Private & Secure|com.UCMobile.intl|UCWeb Inc.|Communication|Free|Android|18110538|4.459
+Snapchat|com.snapchat.android|Snap Inc|Social|Free|Android|17357740|4.043
+Google Play services|com.google.android.gms|Google LLC|Tools|Free|Android|17346375|4.01
+360 Security - Free Antivirus, Booster, Cleaner|com.qihoo.security|360 Mobile Security Limited|Tools|Free|Android|16785233|4.584
+My Talking Tom|com.outfit7.mytalkingtomfree|Outfit7 Limited|Casual|Free|Android|15057748|4.49
+8 Ball Pool|com.miniclip.eightballpool|Miniclip.com|Sports|Free|Android|14542295|4.527
+DU Battery Saver - Battery Charger & Battery Life|com.dianxinos.dxbs|DU APPS STUDIO - BATTERY&BOOSTER|Tools|Free|Android|13501778|4.524
+BBM - Free Calls & Messages|com.bbm|BBM .|Communication|Free|Android|12862837|4.273
+Cache Cleaner-DU Speed Booster (booster & cleaner)|com.dianxinos.optimizer.duplay|DU APPS STUDIO - BATTERY&BOOSTER|Tools|Free|Android|12783297|4.539
+Spotify Music|com.spotify.music|Spotify Ltd.|Music and Audio|Free|Android|11851097|4.541
+Twitter|com.twitter.android|Twitter, Inc.|News and Magazines|Free|Android|11849728|4.29
+Google Photos|com.google.android.apps.photos|Google LLC|Photography|Free|Android|11321435|4.522
+Shadow Fight 2|com.nekki.shadowfight|NEKKI|Action|Free|Android|11134803|4.644
+LINE|jp.naver.line.android|LINE Corporation|Communication|Free|Android|10893127|4.183
+Pou|me.pou.app|Zakeh|Casual|Free|Android|10544165|4.329
+Skype - free IM & video calls|com.skype.raider|Skype|Communication|Free|Android|10522710|4.129
+Minion Rush|com.gameloft.android.ANMP.GloftDMHM|Gameloft|Casual|Free|Android|10253652|4.456
+Dream League Soccer 2018|com.firsttouchgames.dls3|First Touch Games Ltd.|Sports|Free|Android|10163142|4.595
+Hay Day|com.supercell.hayday|Supercell|Casual|Free|Android|10127608|4.48
+VivaVideo - Video Editor & Photo Movie|com.quvideo.xiaoying|QuVideo Inc. Best Video Editor & Video Maker App|Video Players|Free|Android|10085526|4.604
+My Talking Angela|com.outfit7.mytalkingangelafree|Outfit7 Limited|Casual|Free|Android|10034202|4.497
+Google Chrome|com.android.chrome|Google LLC|Communication|Free|Android|9888233|4.296
+Maps - Navigate & Explore|com.google.android.apps.maps|Google LLC|Travel and Local|Free|Android|9352902|4.343
+Hill Climb Racing|com.fingersoft.hillclimb|Fingersoft|Racing|Free|Android|9000339|4.439
+Facebook Lite|com.facebook.lite|Facebook|Social|Free|Android|8917858|4.281
+Super-Bright LED Flashlight|com.surpax.ledflashlight.panel|ONE App Essentials.|Productivity|Free|Android|8901285|4.594
+Mobile Legends|com.mobile.legends|Moonton|Action|Free|Android|8797967|4.357
+Asphalt 8|com.gameloft.android.ANMP.GloftA8HM|Gameloft|Racing|Free|Android|8463665|4.512
+Google|com.google.android.googlequicksearchbox|Google LLC|Tools|Free|Android|8338017|4.388
+Temple Run 2|com.imangi.templerun2|Imangi Studios|Action|Free|Android|8272808|4.326
+Battery Doctor-Battery Life Saver & Battery Cooler|com.ijinshan.kbatterydoctor_en|Cheetah Mobile Inc. (NYSE|Tools|Free|Android|8189176|4.53
+SHAREit - Transfer & Share|com.lenovo.anyshare.gps|SHAREit Technologies Co.Ltd|Tools|Free|Android|8122496|4.612
+Truecaller|com.truecaller|True Software Scandinavia AB|Communication|Free|Android|8096145|4.548
+Sniper 3D Gun Shooter|com.fungames.sniper3d|Fun Games For Free|Action|Free|Android|8039691|4.62
+PicsArt Photo Studio|com.picsart.studio|PicsArt|Photography|Free|Android|7693987|4.461
+Farm Heroes Saga|com.king.farmheroessaga|King|Casual|Free|Android|7647012|4.409
+PhotoGrid|com.roidapp.photogrid|Cheetah Mobile (Photo Editor)|Photography|Free|Android|7591912|4.554
+GO Launcher - 3D parallax Themes & HD Wallpapers|com.gau.go.launcherex|GOMO Limited|Personalization|Free|Android|7478032|4.511
+Google Play Games|com.google.android.play.games|Google LLC|Entertainment|Free|Android|7351703|4.268
+Waze - GPS, Maps, Traffic Alerts & Live Navigation|com.waze|Waze|Maps & Navigation|Free|Android|7269692|4.565
+Garena Free Fire|com.dts.freefireth|GARENA INTERNATIONAL I PRIVATE LIMITED|Action|Free|Android|7195422|4.503
+CM Launcher 3D - Theme, Wallpapers, Efficient|com.ksmobile.launcher|Cheetah Mobile Inc|Personalization|Free|Android|6944091|4.551
+MX Player|com.mxtech.videoplayer.ad|J2 Interactive|Video Players|Free|Android|6557703|4.475
+Wish - Shopping Made Fun|com.contextlogic.wish|Wish Inc.|Shopping|Free|Android|6480418|4.468
+Trivia Crack|com.etermax.preguntados.lite|Etermax|Trivia|Free|Android|6480380|4.468
+Duolingo|com.duolingo|Duolingo|Education|Free|Android|6476544|4.717
+Dragon City|es.socialpoint.DragonCity|Social Point|Simulation|Free|Android|6444915|4.576
+Traffic Rider|com.skgames.trafficrider|Soner Kara|Racing|Free|Android|6324359|4.681
+Candy Crush Soda Saga|com.king.candycrushsodasaga|King|Casual|Free|Android|6273642|4.356
+Flipkart Online Shopping App|com.flipkart.android|Flipkart|Shopping|Free|Android|6268884|4.433
+AVG AntiVirus 2018 for Android Security|com.antivirus|AVG Mobile|Tools|Free|Android|6245910|4.51
+TikTok - including musical.ly|com.zhiliaoapp.musically|musical.ly|Social|Free|Android|6216302|4.354
+Geometry Dash Lite|com.robtopx.geometryjumplite|RobTop Games|Arcade|Free|Android|6214029|4.505
+AliExpress - Smarter Shopping, Better Living|com.alibaba.aliexpresshd|Alibaba Mobile|Shopping|Free|Android|6144356|4.595
+Hungry Shark Evolution|com.fgol.HungrySharkEvolution|Ubisoft Entertainment|Arcade|Free|Android|6142058|4.498
+Retrica|com.venticake.retrica|Retrica, Inc.|Photography|Free|Android|6134666|4.322
+4shared|com.forshared|New IT Solutions|Entertainment|Free|Android|5970099|4.391
+VK|com.vkontakte.android|VK.com|Social|Free|Android|5881018|3.805
+Google Translate|com.google.android.apps.translate|Google LLC|Tools|Free|Android|5819337|4.41
+APUS Launcher - Theme, Wallpaper, Hide Apps|com.apusapps.launcher|APUS Group|Personalization|Free|Android|5806185|4.473
+Plants vs. Zombies 2|com.ea.game.pvz2_row|ELECTRONIC ARTS|Casual|Free|Android|5744213|4.444
+Real Racing  3|com.ea.games.r3_row|ELECTRONIC ARTS|Racing|Free|Android|5648422|4.454
+Boom Beach|com.supercell.boombeach|Supercell|Strategy|Free|Android|5620390|4.47
+Netflix|com.netflix.mediaclient|Netflix, Inc.|Entertainment|Free|Android|5598242|4.445
+Angry Birds Classic|com.rovio.angrybirds|Rovio Entertainment Corporation|Arcade|Free|Android|5589107|4.402
+dfndr security|com.psafe.msuite|PSafe|Tools|Free|Android|5556684|4.537
+Score! Hero|com.firsttouchgames.story|First Touch Games Ltd.|Sports|Free|Android|5611344|4.627
+ES File Explorer File Manager|com.estrongs.android.pop|ES Global|Productivity|Free|Android|5613087|4.574
+Traffic Racer|com.skgames.trafficracer|Soner Kara|Racing|Free|Android|5474288|4.466
+WeChat|com.tencent.mm|WeChat|Communication|Free|Android|5466220|4.217
+B612 - Beauty & Filter Camera|com.linecorp.b612.android|SNOW, Inc.|Photography|Free|Android|5542675|4.409
+slither.io|air.com.hypah.io.slither|Lowtech Studios|Action|Free|Android|5413785|4.359
+Opera Mini - fast web browser|com.opera.mini.native|Opera|Communication|Free|Android|5488926|4.463
+Avast Mobile Security 2018 - Antivirus & App Lock|com.avast.android.mobilesecurity|Avast Software|Tools|Free|Android|5303885|4.548
+Hotstar|in.startv.hotstar|Novi Digital|Entertainment|Free|Android|5396929|4.315
+Uber|com.ubercab|Uber Technologies, Inc.|Maps & Navigation|Free|Android|5375449|4.186
+Dr. Driving|com.ansangha.drdriving|SUD Inc.|Racing|Free|Android|5102858|4.474
+AppLock|com.domobile.applock|DoMobile Lab|Tools|Free|Android|5105109|4.369
+Zombie Tsunami|net.mobigame.zombietsunami|Mobigame S.A.R.L.|Arcade|Free|Android|5016076|4.451
+PUBG MOBILE|com.tencent.ig|Tencent Games|Action|Free|Android|6925360|4.508
+The Sims FreePlay|com.ea.games.simsfreeplay_row|ELECTRONIC ARTS|Simulation|Free|Android|4970274|4.24
+Gangstar Vegas - mafia game|com.gameloft.android.ANMP.GloftGGHM|Gameloft|Action|Free|Android|5018596|4.459
+Google+|com.google.android.apps.plus|Google LLC|Social|Free|Android|5175622|4.204
+Camera360|vStudio.Android.Camera360|PinGuo Inc.|Photography|Free|Android|4889209|4.35
+imo free video calls and chat|com.imo.android.imoim|imo.im|Communication|Free|Android|4945822|4.33
+ROBLOX|com.roblox.client|Roblox Corporation|Adventure|Free|Android|5449230|4.538
+Gmail|com.google.android.gm|Google LLC|Communication|Free|Android|4943156|4.337
+JOOX Music|com.tencent.ibg.joox|Tencent Mobility Limited|Music and Audio|Free|Android|4820313|4.561
+Jetpack Joyride|com.halfbrick.jetpackjoyride|Halfbrick Studios|Arcade|Free|Android|4677352|4.403
+GO Keyboard - Cute Emojis, Themes and GIFs|com.jb.emoji.gokeyboard|GOMO|Tools|Free|Android|4640546|4.495
+Period Tracker - Period Calendar Ovulation Tracker|com.popularapp.periodcalendar|Simple Design Ltd.|Health and fitness|Free|Android|4661217|4.779
+Castle Clash|com.igg.castleclash|IGG.COM|Strategy|Free|Android|4612383|4.552
+Pixel Gun 3D|com.pixel.gun3d|Pixel Gun 3D|Action|Free|Android|4696894|4.507
+Township|com.playrix.township|Playrix Games|Casual|Free|Android|4644693|4.615
+Pinterest|com.pinterest|Pinterest|Social|Free|Android|4597108|4.623
+Gardenscapes|com.playrix.gardenscapes|Playrix Games|Casual|Free|Android|4485887|4.588
+SimCity BuildIt|com.ea.game.simcitymobile_row|ELECTRONIC ARTS|Simulation|Free|Android|4356405|4.458
+Crossy Road|com.yodo1.crossyroad|HIPSTER WHALE|Action|Free|Android|4278616|4.53
+Tiny Flashlight + LED|com.devuni.flashlight|Nikolay Ananiev|Tools|Free|Android|4258751|4.445
+Smash Hit|com.mediocre.smashhit|Mediocre|Arcade|Free|Android|4213002|4.469
+Plants vs. Zombies FREE|com.ea.game.pvzfree_row|ELECTRONIC ARTS|Strategy|Free|Android|4201205|4.443
+VideoShow-Video Editor, Video Maker, Beauty Camera|com.xvideostudio.videoeditor|EnjoyMobi Video Editor & Video Maker Studio|Video Players|Free|Android|4170428|4.557
+FIFA Soccer|com.ea.gp.fifamobile|ELECTRONIC ARTS|Sports|Free|Android|4241698|4.26
+Mercado Libre|com.mercadolibre|Mercado Libre|Shopping|Free|Android|4378705|4.706
+Temple Run|com.imangi.templerun|Imangi Studios|Arcade|Free|Android|4073138|4.348
+Angry Birds 2|com.rovio.baba|Rovio Entertainment Corporation|Casual|Free|Android|4071658|4.572
+DEER HUNTER CLASSIC|com.glu.deerhunt2|Glu|Action|Free|Android|3948278|4.419
+Criminal Case|com.prettysimple.criminalcaseandroid|Pretty Simple|Adventure|Free|Android|3892139|4.538
+Angry Birds Go!|com.rovio.angrybirdsgo|Rovio Entertainment Corporation|Racing|Free|Android|3859709|4.242
+Mobile Recharge, DTH, Bill Payment, Money Transfer|net.one97.paytm|Paytm - One97 Communications Ltd.|Shopping|Free|Android|4121509|4.354
+Agar.io|com.miniclip.agar.io|Miniclip.com|Action|Free|Android|3862234|4.238
+Badoo - Free Chat & Dating App|com.badoo.mobile|Badoo|Social|Free|Android|3944889|4.293
+Sonic Dash|com.sega.sonicdash|SEGA|Arcade|Free|Android|3884746|4.457
+LINE Let's Get Rich|com.linecorp.LGGRTHN|LINE Corporation|Casual|Free|Android|3826255|4.275
+Tango - Live Video Broadcast|com.sgiggle.production|Tango|Social|Free|Android|3814021|4.292
+SoundCloud - Music & Audio|com.soundcloud.android|SoundCloud|Music and Audio|Free|Android|3811241|4.502
+UC Browser Mini -Tiny Fast Private & Secure|com.uc.browser.en|UCWeb Inc.|Communication|Free|Android|3806323|4.416
+Banana Kong|com.fdgentertainment.bananakong|FDG Entertainment GmbH & Co.KG|Action|Free|Android|3582789|4.434
+Top Eleven 2018 -  Be a Soccer Manager|eu.nordeus.topeleven.android|Nordeus|Sports|Free|Android|3520991|4.439
+Hangouts|com.google.android.talk|Google LLC|Communication|Free|Android|3607721|4.025
+Google Play Music|com.google.android.music|Google LLC|Music and Audio|Free|Android|3573296|3.933
+Candy Camera - selfie, beauty camera, photo editor|com.joeware.android.gpulumera|JP Brothers, Inc.|Photography|Free|Android|3421825|4.392
+YouCam Makeup - Magic Selfie Makeovers|com.cyberlink.youcammakeup|Perfect Corp.|Photography|Free|Android|3438341|4.565
+Smule - The #1 Singing App|com.smule.singandroid|Smule|Music and Audio|Free|Android|3432190|4.188
+Shazam|com.shazam.android|Shazam Entertainment Limited|Music and Audio|Free|Android|3353382|4.394
+Microsoft Outlook|com.microsoft.office.outlook|Microsoft Corporation|Productivity|Free|Android|3451885|4.307
+Homescapes|com.playrix.homescapes|Playrix Games|Casual|Free|Android|3514460|4.634
+Cooking Fever|com.nordcurrent.canteenhd|Nordcurrent|Arcade|Free|Android|3358131|4.498
+MyJio|com.jio.myjio|Reliance Industries Ltd.|Productivity|Free|Android|3746177|4.344
+Hola Launcher- Theme,Wallpaper|com.hola.launcher|Holaverse|Personalization|Free|Android|3279828|4.477
+Lords Mobile|com.igg.android.lordsmobile|IGG.COM|Strategy|Free|Android|3460175|4.409
+BeautyPlus - Easy Photo Editor & Selfie Camera|com.commsource.beautyplus|MEITU|Photography|Free|Android|3368793|4.411
+Talking Tom Cat 2|com.outfit7.talkingtom2free|Outfit7 Limited|Entertainment|Free|Android|3235263|4.319
+Pet Rescue Saga|com.king.petrescuesaga|King|Casual|Free|Android|3214646|4.334
+Telegram|org.telegram.messenger|Telegram FZ-LLC|Communication|Free|Android|3257350|4.379
+Parallel Space - Multiple accounts & Two face|com.lbe.parallel.intl|LBE Tech|Personalization|Free|Android|3288579|4.598
+War Robots|com.pixonic.wwr|PIXONIC|Action|Free|Android|3260417|4.584
+MORTAL KOMBAT X|com.wb.goog.mkx|Warner Bros. International Enterprises|Action|Free|Android|3192974|4.456
+Amazon India Online Shopping|in.amazon.mShop.android.shopping|Amazon Mobile LLC|Shopping|Free|Android|3410904|4.342
+Firefox Browser fast & private|org.mozilla.firefox|Mozilla|Communication|Free|Android|3125186|4.372
+CM Locker - Security Lockscreen|com.cmcm.locker|Cheetah Mobile (Secure lockscreen & Applock)|Tools|Free|Android|3102635|4.608
+Vector|com.nekki.vector|NEKKI|Arcade|Free|Android|3091843|4.379
+SimSimi|com.ismaker.android.simsimi|SimSimi Inc.|Entertainment|Free|Android|3119851|4.31
+CSR Racing 2|com.naturalmotion.customstreetracer2|NaturalMotionGames Ltd|Racing|Free|Android|3129129|4.68
+Adobe Acrobat Reader|com.adobe.reader|Adobe|Productivity|Free|Android|3113486|4.33
+WhatsApp Wallpaper|com.whatsapp.wallpaper|WhatsApp Inc.|Personalization|Free|Android|3074345|3.984
+Omni Swipe - Small and Quick|com.lazyswipe|Holaverse Group|Tools|Free|Android|3042057|4.522
+Tumblr|com.tumblr|Tumblr, Inc.|Social|Free|Android|3052263|4.444
+Don't Tap The White Tile|com.umonistudio.tile|Cheetah Games|Arcade|Free|Android|2962558|4.357
+Pandora Music|com.pandora.android|Pandora|Music and Audio|Free|Android|2981704|4.418
+Modern Combat 5|com.gameloft.android.ANMP.GloftM5HM|Gameloft|Action|Free|Android|2996456|4.29
+DragonFlight for Kakao|com.NextFloor.DragonFlightKakao|LINE Games|Arcade|Free|Android|2904109|4.591
+hike messenger|com.bsb.hike|Hike Private Limited|Communication|Free|Android|2904462|4.336
+GO SMS Pro - Messenger, Free Themes, Emoji|com.jb.gosms|GOMO Apps|Communication|Free|Android|2888400|4.372
+Solo Launcher-Clean,Smooth,DIY|home.solo.launcher.free|newborntown|Personalization|Free|Android|2859845|4.47
+Bubble Witch 2 Saga|com.midasplayer.apps.bubblewitchsaga2|King|Casual|Free|Android|2853345|4.332
+Hill Climb Racing 2|com.fingersoft.hcr2|Fingersoft|Racing|Free|Android|2945479|4.618
+Plague Inc.|com.miniclip.plagueinc|Miniclip.com|Simulation|Free|Android|2833594|4.504
+Talking Tom Gold Run|com.outfit7.talkingtomgoldrun|Outfit7 Limited|Action|Free|Android|2914648|4.625
+SwiftKey Keyboard|com.touchtype.swiftkey|SwiftKey|Productivity|Free|Android|2869522|4.494
+Fashion & Tech Deals - Shop, Sell & Save with eBay|com.ebay.mobile|eBay Mobile|Shopping|Free|Android|2824220|4.378
+DEAD TRIGGER 2 - Zombie Survival Shooter|com.madfingergames.deadtrigger2|MADFINGER Games|Action|Free|Android|2827002|4.545
+Google Drive|com.google.android.apps.docs|Google LLC|Productivity|Free|Android|3024110|4.392
+Fallout Shelter|com.bethsoft.falloutshelter|Bethesda Softworks LLC|Simulation|Free|Android|2803447|4.577
+Master for Minecraft(Pocket Edition)-Mod Launcher|com.groundhog.mcpemaster|Nimo TV|Tools|Free|Android|2780295|4.575
+Kaspersky Mobile Antivirus|com.kms.free|Kaspersky Lab|Tools|Free|Android|2700984|4.75
+Angry Birds Epic RPG|com.rovio.gold|Rovio Entertainment Corporation|Game Role Playing|Free|Android|2641496|4.499
+Drag Racing|com.creativemobile.DragRacing|Creative Mobile|Racing|Free|Android|2638898|4.417
+Angry Birds Rio|com.rovio.angrybirdsrio|Rovio Entertainment Corporation|Arcade|Free|Android|2655826|4.387
+Kika Keyboard - Emoji Keyboard, Emoticon, GIF|com.qisiemoji.inputmethod|Kika AI Team|Productivity|Free|Android|2698776|4.382
+Bike Race Free - Top Motorcycle Racing Games|com.topfreegames.bikeracefreeworld|Top Free Games.|Racing|Free|Android|2636082|4.532
+Bowling King|com.pnixgames.bowlingking|Miniclip.com|Sports|Free|Android|2638844|4.592
+GO Keyboard Lite - Emoji keyboard, Free Theme, GIF|com.jb.gokeyboard|GOMO Apps|Personalization|Free|Android|2608661|4.422
+KakaoTalk|com.kakao.talk|Kakao Corporation|Communication|Free|Android|2662239|4.247
+Monster Legends - RPG|es.socialpoint.MonsterLegends|Social Point|Simulation|Free|Android|2573349|4.584
+Opera Browser|com.opera.browser|Opera|Communication|Free|Android|2555938|4.376
+MARVEL Contest of Champions|com.kabam.marvelbattle|Kabam Games, Inc.|Action|Free|Android|2550582|4.307
+Paperama|com.fdgentertainment.paperama|FDG Entertainment GmbH & Co.KG|Puzzle|Free|Android|2494625|4.415
+FarmVille 2|com.zynga.FarmVille2CountryEscape|Zynga|Casual|Free|Android|2489289|4.28
+Bible|com.sirma.mobile.bible.android|Life.Church|Books and Reference|Free|Android|2481420|4.702
+BIGO LIVE - Live Stream|sg.bigo.live|BIGO TECHNOLOGY PTE. LTD.|Social|Free|Android|2598614|4.44
+CSR Racing|com.naturalmotion.csrracing|NaturalMotionGames Ltd|Racing|Free|Android|2461249|4.432
+Kik|kik.android|Kik Interactive|Communication|Free|Android|2459253|4.283
+Injustice|com.wb.goog.injustice|Warner Bros. International Enterprises|Action|Free|Android|2451781|4.426
+Last Day on Earth|zombie.survival.craft.z|Kefir!|Action|Free|Android|2565620|4.526
+ColorNote Notepad Notes|com.socialnmobile.dictapps.notepad.color.note|Notes|Productivity|Free|Android|2473446|4.63
+Power Clean - Antivirus & Phone Cleaner App|com.lionmobi.powerclean|LIONMOBI|Tools|Free|Android|2490383|4.595
+Cymera Camera - Collage, Selfie Camera, Pic Editor|com.cyworld.camera|SK Communications|Photography|Free|Android|2430909|4.394
+Minecraft|com.mojang.minecraftpe|Mojang|Arcade|$6.99|Android|2482103|4.502
+MARVEL Future Fight|com.netmarble.mherosgb|Netmarble|Game Role Playing|Free|Android|2427520|4.559
+Backgrounds HD (Wallpapers)|com.ogqcorp.bgh|OGQ|Personalization|Free|Android|2396854|4.623
+Weather & Clock Widget for Android|com.devexpert.weather|Devexpert.NET|Weather|Free|Android|2389646|4.398
+Google Earth|com.google.earth|Google LLC|Travel and Local|Free|Android|2381236|4.3
+My Cafe|com.melesta.coffeeshop|Melsoft Games|Casual|Free|Android|2449418|4.66
+Extreme Car Driving Simulator|com.aim.racing|AxesInMotion Racing|Racing|Free|Android|2382071|4.354
+MARVEL Spider-Man Unlimited|com.gameloft.android.ANMP.GloftSIHM|Gameloft|Action|Free|Android|2338248|4.247
+Clean Master Lite - For Low-End Phones|com.cmcm.lite|Cheetah Mobile|Tools|Free|Android|2346931|4.578
+CM Browser - Ad Blocker , Fast Download , Privacy|com.ksmobile.cb|Cheetah Mobile Communications|Communication|Free|Android|2300257|4.552
+InShot - Video Editor & Photo Editor|com.camerasideas.instashot|InShot Inc.|Photography|Free|Android|2396530|4.705
+Google Duo - High Quality Video Calls|com.google.android.apps.tachyon|Google LLC|Communication|Free|Android|2560623|4.599
+94% - Quiz, Trivia & Logic|com.scimob.ninetyfour.percent|Scimob|Trivia|Free|Android|2282360|4.589
+World Robot Boxing|com.jumpgames.rswrb|Reliance Big Entertainment (UK) Private Limited|Action|Free|Android|2263296|4.438
+Fishdom|com.playrix.fishdomdd.gplay|Playrix Games|Puzzle|Free|Android|2359882|4.645
+Clash of Kings |com.hcg.cok.gp|Elex Wireless|Strategy|Free|Android|2251080|4.193
+Twitch|tv.twitch.android.app|Twitch Interactive, Inc.|Entertainment|Free|Android|2292187|4.646
+Microsoft Word|com.microsoft.office.word|Microsoft Corporation|Productivity|Free|Android|2437647|4.497
+Cut the Rope 2|com.zeptolab.ctr2.f2p.google|ZeptoLab|Puzzle|Free|Android|2205114|4.294
+World of Tanks Blitz|net.wargaming.wot.blitz|Wargaming Group|Action|Free|Android|2235296|4.306
+GUNSHIP BATTLE|com.theonegames.gunshipbattle|JOYCITY Corp.|Action|Free|Android|2192421|4.316
+OK|ru.ok.android|Odnoklassniki Ltd|Social|Free|Android|2198825|4.368
+TikTok|com.ss.android.ugc.trill|Bytemod Pte.Ltd.|Video Players|Free|Android|2530960|4.487
+Cut the Rope FULL FREE|com.zeptolab.ctr.ads|ZeptoLab|Puzzle|Free|Android|2188812|4.365
+360 Security Lite - Booster, Cleaner, AppLock|com.qihoo.security.lite|mobimagicdevelop|Tools|Free|Android|2165215|4.519
+Swamp Attack|com.outfit7.movingeye.swampattack|Outfit7 Limited|Action|Free|Android|2171428|4.438
+Google Street View|com.google.android.street|Google LLC|Travel and Local|Free|Android|2145257|4.217
+Flight Pilot Simulator 3D Free|com.fungames.flightpilot|Fun Games For Free|Simulation|Free|Android|2171240|4.598
+Helix Jump|com.h8games.helixjump|VOODOO|Action|Free|Android|2640228|4.314
+AccuWeather|com.accuweather.android|AccuWeather|Weather|Free|Android|2113824|4.368
+Summoners War|com.com2us.smon.normal.freefull.google.kr.android.common|Com2uS|Game Role Playing|Free|Android|2080675|4.319
+WiFi Master Key - by wifi.com|com.halo.wifikey.wifilocating|LINKSURE NETWORK HOLDING PTE. LIMITED|Tools|Free|Android|2113057|4.262
+LINE Rangers|com.linecorp.LGRGS|LINE Corporation|Action|Free|Android|2038072|4.368
+Palco MP3|com.studiosol.palcomp3|Studio Sol|Music and Audio|Free|Android|2027315|4.163
+Gboard - the Google Keyboard|com.google.android.inputmethod.latin|Google LLC|Tools|Free|Android|2145968|4.249
+Six-Guns|com.gameloft.android.ANMP.GloftSXHM|Gameloft|Action|Free|Android|1986005|4.407
+Dubsmash - Dance Video, Lip Sync & Meme Maker|com.mobilemotion.dubsmash|Dubsmash Inc|Video Players|Free|Android|1987028|4.229
+Android System WebView|com.google.android.webview|Google LLC|Tools|Free|Android|2090906|4.402
+Toy Blast|net.peakgames.amy|Peak Games|Puzzle|Free|Android|2066463|4.673
+Where's My Water? 2|com.disney.wheresmywater2_goo|Disney|Puzzle|Free|Android|1955330|4.212
+Episode - Choose Your Story|com.episodeinteractive.android.catalog|Episode Interactive|Simulation|Free|Android|2033776|4.355
+New Star Soccer|com.newstargames.newstarsoccer|Five Aces Publishing Ltd.|Sports|Free|Android|1925228|4.608
+Dragon Mania Legends|com.gameloft.android.ANMP.GloftDOHM|Gameloft|Simulation|Free|Android|1948051|4.579
+PES 2018 PRO EVOLUTION SOCCER|jp.konami.pesam|KONAMI|Sports|Free|Android|2015775|4.39
+Calorie Counter - MyFitnessPal|com.myfitnesspal.android|MyFitnessPal, Inc.|Health and fitness|Free|Android|1929358|4.608
+Mobizen Screen Recorder - Record, Capture, Edit|com.rsupport.mvagent|MOBIZEN|Productivity|Free|Android|1971435|4.345
+Musixmatch - Lyrics for your music|com.musixmatch.android.lyrify|Musixmatch|Music and Audio|Free|Android|1906804|4.471
+Grab - Transport, Food Delivery, Payments|com.grabtaxi.passenger|Grab Holdings|Maps & Navigation|Free|Android|2178219|4.383
+iHeartRadio - Free Music, Radio & Podcasts|com.clearchannel.iheartradio.controller|iHeartMedia, Inc.|Music and Audio|Free|Android|1917492|4.661
+The Tribez|com.gameinsight.tribez|Game Insight|Simulation|Free|Android|1909233|4.439
+World Cricket Championship 2|com.nextwave.wcc2|Nextwave Multimedia|Sports|Free|Android|1959213|4.606
+Photo Editor Pro|com.zentertain.photoeditor|Zentertain|Photography|Free|Android|1875326|4.255
+Dropbox|com.dropbox.android|Dropbox, Inc.|Productivity|Free|Android|1884679|4.393
+Talking Tom Cat|com.outfit7.talkingtom|Outfit7 Limited|Casual|Free|Android|1882566|4.28
+Ice Age Village|com.gameloft.android.ANMP.GloftIAHM|Gameloft|Casual|Free|Android|1864009|4.377
+Talking Angela|com.outfit7.talkingangelafree|Outfit7 Limited|Entertainment|Free|Android|1850226|3.696
+Akinator|com.digidust.elokence.akinator.freemium|Elokence|Entertainment|Free|Android|1894149|4.32
+Booking.com Travel Deals|com.booking|Booking.com Hotels & Vacation Rentals|Travel and Local|Free|Android|1854837|4.672
+Soccer Stars|com.miniclip.soccerstars|Miniclip.com|Sports|Free|Android|1859237|4.371
+MP3 Video Converter|com.springwalk.mediaconverter|Springwalk|Music and Audio|Free|Android|1841854|4.31
+ZERO Launcher- HD Themes,3D Wallpapers,Color Icons|com.zeroteam.zerolauncher|GOMO|Personalization|Free|Android|1815331|4.386
+Gaana Music|com.gaana|Gamma Gaana Ltd|Music and Audio|Free|Android|1905965|4.445
+Fast Racing 3D|com.julian.fastracing|Doodle Mobile Ltd.|Racing|Free|Android|1810611|4.179
+Bowmasters|com.miniclip.bowmasters|Miniclip.com|Action|Free|Android|1995339|4.652
+Bubble Witch 3 Saga|com.king.bubblewitch3|King|Puzzle|Free|Android|1847446|4.721
+Talking Ginger|com.outfit7.talkinggingerfree|Outfit7 Limited|Entertainment|Free|Android|1766550|4.239
+FRONTLINE COMMANDO|com.glu.flcn_new|Glu|Action|Free|Android|1766375|4.491
+NBA LIVE Mobile Basketball|com.ea.gp.nbamobile|ELECTRONIC ARTS|Sports|Free|Android|1792155|4.409
+GT Racing 2|com.gameloft.android.ANMP.GloftRAHM|Gameloft|Racing|Free|Android|1718998|4.349
+Grow Empire|com.empire.grow.rome|Games Station|Strategy|Free|Android|1819780|4.628
+Glow Hockey|com.natenai.glowhockey|Natenai Ariyatrakool|Arcade|Free|Android|1711299|4.117
+Words With Friends Classic|com.zynga.words|Zynga|Word|Free|Android|1706928|4.298
+Clash of Lords 2|com.igg.clashoflords2|IGG.COM|Strategy|Free|Android|1703749|4.496
+Automatic Call Recorder|com.appstar.callrecorder|Appliqato|Tools|Free|Android|1740306|4.337
+CATS|com.zeptolab.cats.google|ZeptoLab|Action|Free|Android|1787128|4.679
+Dumb Ways to Die 2|air.au.com.metro.DumbWaysToDie2|Metro Trains|Casual|Free|Android|1687920|4.229
+Angry Birds Transformers|com.rovio.angrybirdstransformers|Rovio Entertainment Corporation|Arcade|Free|Android|1690342|4.423
+Private Zone - AppLock, Video & Photo Vault|com.leo.appmaster|Leomaster(AppLock & Privacy)|Video Players|Free|Android|1684010|4.315
+Angry Birds Seasons|com.rovio.angrybirdsseasons|Rovio Entertainment Corporation|Arcade|Free|Android|1675815|4.356
+Shadow Fight 3|com.nekki.shadowfight3|NEKKI|Game Role Playing|Free|Android|1737496|4.435
+Keepsafe Photo Vault|com.kii.safe|Keepsafe|Photography|Free|Android|1661336|4.569
+Talking Ben the Dog|com.outfit7.talkingben|Outfit7 Limited|Entertainment|Free|Android|1654509|4.325
+Lazada 11.11 Biggest 1 Day Sale|com.lazada.android|Lazada Mobile|Shopping|Free|Android|1979166|4.28
+Vigo Video|com.cheerfulinc.flipagram|BYTEMOD PTE.Ltd|Social|Free|Android|1620233|4.332
+Real Basketball|net.mobilecraft.realbasketball|Mynet|Sports|Free|Android|1606451|4.503
+YouCam Perfect - Selfie Photo Editor|com.cyberlink.youperfect|Perfect Corp.|Photography|Free|Android|1629591|4.515
+Castle Clash|com.igg.castleclash_ru|IGG.COM|Strategy|Free|Android|1605420|4.728
+Geometry Dash Meltdown|com.robtopx.geometrydashmeltdown|RobTop Games|Arcade|Free|Android|1601494|4.636
+Messenger Lite|com.facebook.mlite|Facebook|Communication|Free|Android|1822670|4.419
+Super Cleaner - Antivirus, Booster, Phone Cleaner|com.apps.go.clean.boost.master|Hawk App|Tools|Free|Android|1650471|4.685
+Eternium|com.makingfun.mageandminions|Making Fun, Inc.|Game Role Playing|Free|Android|1648138|4.835
+TuneIn|tunein.player|TuneIn Inc|Music and Audio|Free|Android|1607879|4.434
+Frozen Free Fall|com.disney.frozensaga_goo|Disney|Puzzle|Free|Android|1593318|4.289
+Head Soccer|com.dnddream.headsoccer.android|D&D Dream|Sports|Free|Android|1585316|4.305
+Blitz Brigade - Online FPS fun|com.gameloft.android.ANMP.GloftINHM|Gameloft|Action|Free|Android|1581585|4.262
+The Weather Channel|com.weather.Weather|The Weather Channel|Weather|Free|Android|1592554|4.384
+CamScanner - Phone PDF Creator|com.intsig.camscanner|INTSIG Information Co.,Ltd|Productivity|Free|Android|1614756|4.573
+Into the Dead|com.sidheinteractive.sif.DR|PIKPOK|Action|Free|Android|1566976|4.438
+My Airtel-Recharge, Pay Bills, Bank & Avail Offers|com.myairtelapp|Airtel|Productivity|Free|Android|1669029|4.354
+Photo Editor Collage Maker Pro with Picture Frames|com.lyrebirdstudio.montagenscolagem|Lyrebird Studio|Photography|Free|Android|1575395|4.477
+HP Print Service Plugin|com.hp.android.printservice|HP Inc.|Productivity|Free|Android|1634455|4.404
+Deezer Music Player|deezer.android.app|Deezer Mobile|Music and Audio|Free|Android|1565076|4.124
+WPS Office - Word, Docs, PDF, Note, Slide & Sheet|cn.wps.moffice_eng|Kingsoft Office Software Corporation Limited|Productivity|Free|Android|1571821|4.459
+Toon Blast|net.peakgames.toonblast|Peak Games|Puzzle|Free|Android|1717750|4.746
+Special Forces Group 2|com.ForgeGames.SpecialForcesGroup2|ForgeGames|Action|Free|Android|1608774|4.599
+Path|com.path|Path Mobile, Inc.|Social|Free|Android|1526726|4.413
+Doodle Army 2 |com.appsomniacs.da2|Miniclip.com|Action|Free|Android|1611675|4.552
+City Racing 3D|com.racergame.cityracing3d|3DGames|Racing|Free|Android|1527178|4.557
+LINE Camera - Photo editor|jp.naver.linecamera.android|LINE Corporation|Photography|Free|Android|1528223|4.289
+Five Nights at Freddy's 2 Demo|com.scottgames.fnaf2demo|Scott Cawthon|Strategy|Free|Android|1529253|4.283
+GO-JEK - Ojek Taxi Booking, Delivery and Payment|com.gojek.app|PT. Aplikasi Karya Anak Bangsa|Travel and Local|Free|Android|1696564|4.404
+PewDiePie's Tuber Simulator|com.outerminds.tubular|Outerminds Inc.|Casual|Free|Android|1531363|4.785
+BADLAND|com.frogmind.badland|Frogmind|Adventure|Free|Android|1516999|4.517
+Best Fiends - Free Puzzle Game|com.Seriously.BestFiends|Seriously Digital Entertainment Ltd.|Casual|Free|Android|1546516|4.648
+Yu-Gi-Oh! Duel Links|jp.konami.duellinks|KONAMI|Card|Free|Android|1545059|4.647
+Game of War - Fire Age|com.machinezone.gow|Machine Zone, Inc.|Strategy|Free|Android|1500782|3.877
+Granny|com.dvloper.granny|DVloper|Arcade|Free|Android|1690874|4.496
+Photo Effects Pro|com.dhqsolutions.enjoyphoto|DHQ Solutions|Photography|Free|Android|1498219|4.354
+Hearthstone|com.blizzard.wtcg.hearthstone|Blizzard Entertainment, Inc.|Card|Free|Android|1508420|4.36
+DEAD TARGET|com.vng.g6.a.zombie|VNG GAME STUDIOS|Action|Free|Android|1514148|4.518
+Photo Editor by Aviary|com.aviary.android.feather|Aviary, Inc.|Photography|Free|Android|1492201|4.435
+Evernote|com.evernote|Evernote Corporation|Productivity|Free|Android|1494780|4.548
+TouchPal Keyboard-Cute Emoji,theme, sticker, GIFs|com.cootek.smartinputv5|TouchPal|Productivity|Free|Android|1494965|4.283
+Respawnables - FPS Special Forces|com.dle.respawnables|DIGITAL LEGENDS ENTERTAINMENT SL|Action|Free|Android|1514997|4.359
+Beach Buggy Racing|com.vectorunit.purple.googleplay|Vector Unit|Racing|Free|Android|1520419|4.497
+Madden NFL Overdrive Football|com.ea.game.maddenmobile15_row|ELECTRONIC ARTS|Sports|Free|Android|1496197|4.443
+Virus Cleaner (Hi Security) - Antivirus, Booster|com.ehawk.antivirus.applock.wifi|Hi Security|Tools|Free|Android|1513161|4.749
+9GAG|com.ninegag.android.app|9GAG|Entertainment|Free|Android|1488552|4.588
+Red Ball 4|com.FDGEntertainment.redball4.gp|FDG Entertainment GmbH & Co.KG|Arcade|Free|Android|1513306|4.436
+Critical Ops|com.criticalforceentertainment.criticalops|Critical Force Ltd.|Action|Free|Android|1518090|4.421
+Solitaire|com.mobilityware.solitaire|MobilityWare|Card|Free|Android|1460840|4.364
+Pic Collage - Photo Editor|com.cardinalblue.piccollage.google|Cardinal Blue Software, Inc.|Photography|Free|Android|1461784|4.572
+Google Play Books|com.google.android.apps.books|Google LLC|Books and Reference|Free|Android|1458220|3.921
+GPS Navigation & Offline Maps Sygic|com.sygic.aura|Sygic maps navigation|Maps & Navigation|Free|Android|1456325|4.425
+RULES OF SURVIVAL|com.netease.chiji|NetEase Games|Action|Free|Android|1499222|4.174
+GO Weather - Widget, Theme, Wallpaper, Efficient|com.gau.go.launcherex.gowidget.weatherwidget|GOMO Limited|Weather|Free|Android|1425067|4.508
+Garena RoV|com.garena.game.kgth|Good Mobile Games Private Limited|Action|Free|Android|1643942|4.502
+JioTV - Bigg Boss, KBC, Live sports & TV shows|com.jio.jioplay.tv|Reliance Industries Ltd.|Entertainment|Free|Android|1551597|4.374
+Family Farm Seaside|com.funplus.familyfarm|DIANDIAN INTERACTIVE HOLDING|Casual|Free|Android|1413481|4.312
+DINO HUNTER|com.glu.dino|Glu|Action|Free|Android|1400336|4.359
+Pool Billiards Pro|com.forthblue.pool|TerranDroid|Sports|Free|Android|1400109|4.166
+AdVenture Capitalist|com.kongregate.mobile.adventurecapitalist.google|Kongregate|Simulation|Free|Android|1404850|4.582
+Ice Age Adventures|com.gameloft.android.ANMP.GloftIVHM|Gameloft|Adventure|Free|Android|1390642|4.307
+Chess Free|uk.co.aifactory.chessfree|AI Factory Limited|Board|Free|Android|1399672|4.456
+Groupon - Shop Deals, Discounts & Coupons|com.groupon|Groupon, Inc.|Shopping|Free|Android|1398892|4.554
+Banco do Brasil|br.com.bb.android|Banco do Brasil SA|Finance|Free|Android|1439367|4.537
+Where's My Water? Free|com.disney.WMWLite|Disney|Puzzle|Free|Android|1384461|4.352
+Chase Mobile|com.chase.sig.android|JPMorgan Chase|Finance|Free|Android|1417630|4.642
+Amino|com.narvii.amino.master|Amino Apps|Social|Free|Android|1477707|4.828
+DEAD TRIGGER - Offline Zombie Shooter|com.madfingergames.deadtrigger|MADFINGER Games|Action|Free|Android|1381202|4.572
+2048 Number puzzle game|com.estoty.game2048|Estoty Entertainment LLC|Puzzle|Free|Android|1368568|4.379
+Bus Simulator 2015|com.ovilex.bussimulator2015|Ovidiu Pop|Simulation|Free|Android|1378738|4.234
+Myntra Online Shopping App|com.myntra.android|Myntra|Shopping|Free|Android|1558467|4.271
+Online Soccer Manager (OSM)|com.gamebasics.osm|Gamebasics BV|Sports|Free|Android|1401343|4.482
+Earn to Die 2|com.notdoppler.earntodie2|Not Doppler|Racing|Free|Android|1380059|4.636
+FRONTLINE COMMANDO|com.glu.modwarsniper|Glu|Action|Free|Android|1360284|4.441
+Avakin Life - 3D Virtual World|com.lockwoodpublishing.avakinlife|Lockwood Publishing Ltd|Game Role Playing|Free|Android|1436520|4.393
+Ace Fishing|com.com2us.acefishing.normal.freefull.google.global.android.common|Com2uS|Sports|Free|Android|1346510|4.345
+Turbo FAST|com.pikpok.turbo|PIKPOK|Racing|Free|Android|1338928|4.34
+My Horse|com.naturalmotion.myhorse|MunkyFun Inc|Casual|Free|Android|1335536|4.493
+Vlogger Go Viral - Tuber Game|br.com.tapps.vloggergoviral|Tapps Games|Strategy|Free|Android|1356165|4.759
+Dancing Line|com.cmplay.dancingline|Cheetah Games|Arcade|Free|Android|1371045|4.763
+Tap Titans|com.gamehivecorp.taptitans|Game Hive Corporation|Game Role Playing|Free|Android|1331124|4.754
+Megapolis|com.socialquantum.acityint|Social Quantum Ltd|Strategy|Free|Android|1335822|4.314
+Yahoo Weather|com.yahoo.mobile.client.android.weather|Yahoo|Weather|Free|Android|1328221|4.413
+Share Music & Transfer Files - Xender|cn.xender|Xender Team|Tools|Free|Android|1376358|4.437
+MY LITTLE PONY|com.gameloft.android.ANMP.GloftPOHM|Gameloft|Casual|Free|Android|1325615|4.366
+Candy Crush Jelly Saga|com.king.candycrushjellysaga|King|Puzzle|Free|Android|1333455|4.348
+Flick Shoot 2|net.mobilecraft.flickshoot2|MobileCraft|Sports|Free|Android|1322730|4.52
+OLX|com.olx.southasia|OLX Global B.V.|Shopping|Free|Android|1354223|4.353
+Dragons|com.ludia.dragons|Ludia Inc.|Simulation|Free|Android|1320626|4.272
+Guns of Boom - Online PvP Action|com.gameinsight.gobandroid|Game Insight|Action|Free|Android|1396637|4.578
+Uber Driver|com.ubercab.driver|Uber Technologies, Inc.|Business|Free|Android|1380952|4.331
+Hungry Shark World|com.ubisoft.hungrysharkworld|Ubisoft Entertainment|Action|Free|Android|1334004|4.532
+Flow Free|com.bigduckgames.flow|Big Duck Games LLC|Puzzle|Free|Android|1310684|4.335
+Teen Patti by Octro|com.octro.teenpatti|Octro, Inc.|Casino|Free|Android|1321637|4.459
+Flipboard|flipboard.app|Flipboard|News and Magazines|Free|Android|1298616|4.36
+Facebook Pages Manager|com.facebook.pages.app|Facebook|Business|Free|Android|1305575|4.019
+Empire|air.com.goodgamestudios.empirefourkingdoms|Goodgame Studios|Strategy|Free|Android|1293322|4.188
+Cheetah Keyboard - Gif & Emoji|panda.keyboard.emoji.theme|Cheetah Keyboard|Personalization|Free|Android|1381737|4.574
+OLX - Jual Beli Online|com.app.tokobagus.betterb|OLX Indonesia|Shopping|Free|Android|1313383|4.133
+Racing Fever|mobi.gameguru.racingfever|Gameguru|Racing|Free|Android|1291621|4.523
+Guitar Tuner Free - GuitarTuna|com.ovelin.guitartuna|Yousician Ltd.|Tools|Free|Android|1321430|4.79
+MeetMe|com.myyearbook.m|MeetMe.com|Social|Free|Android|1290410|4.182
+Racing in Car|com.ffgames.racingincar|Fast Free Games|Racing|Free|Android|1274327|4.41
+Golf Clash|com.playdemic.golf.android|Playdemic|Sports|Free|Android|1343481|4.506
+Voice changer with effects|com.baviux.voicechanger|Baviux|Entertainment|Free|Android|1277170|4.232
+BlockLauncher|net.zhuoweizhang.mcpelauncher|Zhuowei Zhang|Tools|Free|Android|1278521|3.754
+Bid Wars - Storage Auctions and Pawn Shop Tycoon|br.com.tapps.bidwars|Tapps Games|Strategy|Free|Android|1560600|4.521
+MomentCam Cartoons & Stickers|com.manboker.headportrait|MomentCam Hong Kong Co., Limited|Photography|Free|Android|1264155|4.197
+Angry Birds Star Wars II Free|com.rovio.angrybirdsstarwarsii.ads|Rovio Entertainment Corporation|Casual|Free|Android|1261379|4.326
+Angry Birds Space|com.rovio.angrybirdsspace.ads|Rovio Entertainment Corporation|Arcade|Free|Android|1255213|4.367
+Kick the Buddy|com.playgendary.kickthebuddy|Playgendary|Action|Free|Android|1409426|4.294
+Survivalcraft Demo|com.candyrufusgames.survivalcrafttrial|Candy Rufus Games|Arcade|Free|Android|1265908|3.85
+LinkedIn|com.linkedin.android|LinkedIn|Social|Free|Android|1275539|4.238
+Android Accessibility Suite|com.google.android.marvin.talkback|Google LLC|Tools|Free|Android|1284697|4.035
+Super Mario Run|com.nintendo.zara|Nintendo Co., Ltd.|Action|Free|Android|1259312|3.745
+Weather|com.macropinch.swan|MacroPinch|Weather|Free|Android|1245580|4.418
+Asphalt Nitro|com.gameloft.android.ANMP.GloftAGHM|Gameloft|Racing|Free|Android|1264647|4.464
+Coin Dozer - Free Prizes|com.leftover.CoinDozer|Game Circus LLC|Casino|Free|Android|1248150|4.402
+Poweramp Music Player (Trial)|com.maxmpz.audioplayer|Max MP|Music and Audio|Free|Android|1238104|4.451
+ASKfm - Ask Me Anonymous Questions|com.askfm|Ask.fm|Social|Free|Android|1231467|4.11
+Fishing Hook|com.mobirix.fishinghook|mobirix|Sports|Free|Android|1257656|4.437
+Angry Birds Star Wars|com.rovio.angrybirdsstarwars.ads.iap|Rovio Entertainment Corporation|Arcade|Free|Android|1221206|4.346
+OLX|com.olx.olx|OLX Global B.V. (Latam)|Shopping|Free|Android|1221484|4.147
+Escape Titanic|com.freshgames.escapethetitanic|App Holdings|Puzzle|Free|Android|1218003|4.185
+Idle Miner Tycoon|com.fluffyfairygames.idleminertycoon|Fluffy Fairy Games|Simulation|Free|Android|1335273|4.767
+Joom|com.joom|Joom|Shopping|Free|Android|1389622|4.724
+Clumsy Ninja|com.naturalmotion.clumsyninja|NaturalMotionGames Ltd|Adventure|Free|Android|1207545|4.407
+Sweet Selfie - selfie cam, beauty cam, photo edit|com.cam001.selfie|Ufoto|Photography|Free|Android|1249035|4.555
+Google Text-to-Speech|com.google.android.tts|Google LLC|Tools|Free|Android|1234644|4.127
+The Walking Dead|com.telltalegames.walkingdead100|Telltale Games|Adventure|Free|Android|1203163|4.478
+Norton Security and Antivirus|com.symantec.mobilesecurity|NortonMobile|Tools|Free|Android|1226362|4.561
+PIP Camera-Photo Editor Pro|com.pipcamera.activity|Fotoable,Inc.|Photography|Free|Android|1199389|4.391
+POF Free Dating App|com.pof.android|Plentyoffish Media ULC|Social|Free|Android|1226502|4.158
+Throne Rush|com.progrestar.bft|NEXTERS|Strategy|Free|Android|1192365|4.368
+Diamond Digger Saga|com.midasplayer.apps.diamonddiggersaga|King|Casual|Free|Android|1189240|4.267
+Ant Smasher by Best Cool & Fun Games|com.bestcoolfungames.antsmasher|Best Cool and Fun Games|Arcade|Free|Android|1187327|4.19
+Pixel Art|com.europosit.pixelcoloring|Easybrain|Puzzle|Free|Android|1244626|4.721
+LINE BROWN FARM|com.linecorp.LGFARM|LINE Corporation|Casual|Free|Android|1191232|4.375
+Bad Piggies|com.rovio.BadPiggies|Rovio Entertainment Corporation|Puzzle|Free|Android|1181414|4.334
+TripAdvisor Hotels Flights Restaurants Attractions|com.tripadvisor.tripadvisor|TripAdvisor|Travel and Local|Free|Android|1184340|4.406
+Skater Boy|com.game.SkaterBoy|MiniCard|Arcade|Free|Android|1172319|4.268
+Harry Potter|com.tinyco.potter|Jam City, Inc.|Adventure|Free|Android|1240919|4.372
+Okey Plus|net.peakgames.OkeyPlus|Zynga|Board|Free|Android|1172176|4.755
+ooVoo Video Calls, Messaging & Stories|com.oovoo|ooVoo LLC|Social|Free|Android|1156737|4.342
+LINE Pokopang|jp.naver.SJLGPP|LINE Corporation|Puzzle|Free|Android|1156838|4.207
+Hotspot Shield Free VPN Proxy & Wi-Fi Security|hotspotshield.android.vpn|AnchorFree GmbH|Tools|Free|Android|1199032|4.258
+Muslim Pro - Prayer Times, Azan, Quran & Qibla|com.bitsmedia.android.muslimpro|Muslim Pro Limited|Lifestyle|Free|Android|1177540|4.688
+Rolling Sky|com.turbochilli.rollingsky|Cheetah Games|Board|Free|Android|1171464|4.508
+ZenUI Launcher|com.asus.launcher|ZenUI, ASUS Computer Inc.|Personalization|Free|Android|1155460|4.663
+King of Thieves|com.zeptolab.thieves.google|ZeptoLab|Strategy|Free|Android|1153292|4.522
+Microsoft Excel|com.microsoft.office.excel|Microsoft Corporation|Productivity|Free|Android|1269697|4.505
+Vine|co.vine.android|Twitter, Inc.|Video Players|Free|Android|1139711|4.188
+Talking Tom & Ben News|com.outfit7.talkingnewsfree|Outfit7 Limited|Entertainment|Free|Android|1143753|4.359
+Blossom Blast Saga|com.king.blossomblast|King|Casual|Free|Android|1151140|4.467
+Online Head Ball|com.izmo.onlinekafatopu|Masomo Gaming|Sports|Free|Android|1139117|4.43
+Logo Quiz|logos.quiz.companies.game|bubble quiz games|Trivia|Free|Android|1135270|4.352
+TalkCall Free Global Phone Call App & Cheap Calls|com.cmcm.whatscall|Cheetah Mobile Cloud (NYSE|Communication|Free|Android|1134848|4.564
+Nova Launcher|com.teslacoilsw.launcher|TeslaCoil Software|Personalization|Free|Android|1142455|4.591
+Azar|com.azarlive.android|Hyperconnect inc|Communication|Free|Android|1167758|4.214
+Learn Languages, Grammar & Vocabulary with Memrise|com.memrise.android.memrisecompanion|Memrise|Education|Free|Android|1149106|4.736
+My Singing Monsters|com.bigbluebubble.singingmonsters.full|Big Blue Bubble|Simulation|Free|Android|1137347|4.593
+Music Player|media.audioplayer.musicplayer|Leopard V7|Music and Audio|Free|Android|1138709|4.46
+Tom Loves Angela|com.outfit7.tomlovesangelafree|Outfit7 Limited|Entertainment|Free|Android|1126473|4.143
+Battery|com.macropinch.pearl|MacroPinch|Tools|Free|Android|1118394|4.469
+MyVodafone (India) - Online Recharge & Pay Bills|com.mventus.selfcare.activity|Vodafone Idea Ltd.|Productivity|Free|Android|1151000|4.081
+Benji Bananas|com.fingersoft.benjibananas|Benji Bananas|Adventure|Free|Android|1116158|4.297
+Driving School 2016|com.ovilex.drivingschool2016|Ovidiu Pop|Racing|Free|Android|1126603|4.488
+101-in-1 Games|com.nordcurrent.Games101|Nordcurrent|Arcade|Free|Android|1109317|4.47
+4 Pics 1 Word|de.lotum.whatsinthefoto.us|LOTUM GmbH|Word|Free|Android|1105182|4.45
+Anti-virus Dr.Web Light|com.drweb|Doctor Web, Ltd|Tools|Free|Android|1100619|4.496
+Diamond Dash Match 3|com.wooga.diamonddash|Wooga|Arcade|Free|Android|1094436|4.461
+Draw Something Classic|com.omgpop.dstfree|Zynga|Word|Free|Android|1096011|4.173
+Downloader & Private Browser|com.app.downloadmanager|Mirmay Limited|Tools|Free|Android|1115256|4.33
+Moments by Facebook|com.facebook.moments|Facebook|Photography|Free|Android|1094842|4.379
+Doodle Jump|com.lima.doodlejump|Lima Sky LLC|Arcade|Free|Android|1089357|4.294
+Geek - Smarter Shopping|com.contextlogic.geek|Wish Inc.|Shopping|Free|Android|1102058|4.461
+Z Camera - Photo Editor, Beauty Selfie, Collage|com.jb.zcamera|GOMO|Photography|Free|Android|1095120|4.386
+JioMusic - HD Music & Radio|com.jio.media.jiobeats|Saavn Media Pvt. Ltd.|Music and Audio|Free|Android|1184033|4.54
+3D Bowling|com.threed.bowling|Italic Games|Sports|Free|Android|1090815|4.143
+Papa Pear Saga|com.midasplayer.apps.papapearsaga|King|Casual|Free|Android|1082747|4.181
+Voot TV Shows Movies Cartoons|com.tv.v18.viola|Viacom18 Digital Media|Entertainment|Free|Android|1175886|4.379
+MovieStarPlanet|air.MSPMobile|MovieStarPlanet ApS|Game Role Playing|Free|Android|1088167|4.222
+Magic Rush|com.moonton.magicrush|Elex|Game Role Playing|Free|Android|1080191|4.455
+SKOUT - Meet, Chat, Go Live|com.skout.android|Skout Inc.|Social|Free|Android|1082546|4.253
+FreeCharge - Recharges, Bill Payments, UPI|com.freecharge.android|FreeCharge|Finance|Free|Android|1080388|4.278
+Zalo - Video Call|com.zing.zalo|Zalo Group|Communication|Free|Android|1120752|4.205
+Microsoft OneDrive|com.microsoft.skydrive|Microsoft Corporation|Productivity|Free|Android|1106316|4.444
+Adobe AIR|com.adobe.air|Adobe|Tools|Free|Android|1064415|3.862
+Modern Sniper|com.xs.armysniper|Candy Mobile|Action|Free|Android|1064021|4.211
+Trials Frontier|com.ubisoft.redlynx.trialsfrontier.ggp|Ubisoft Entertainment|Racing|Free|Android|1061147|4.288
+Cut the Rope|com.zeptolab.timetravel.free.google|ZeptoLab|Puzzle|Free|Android|1060762|4.477
+Tokopedia - Online Shopping & Mobile Recharge|com.tokopedia.tkpd|Tokopedia|Shopping|Free|Android|1160259|4.402
+4 Fotos 1 Palabra|de.lotum.whatsinthefoto.es|LOTUM GmbH|Word|Free|Android|1067882|4.421
+VLC for Android|org.videolan.vlc|Videolabs|Video Players|Free|Android|1077699|4.421
+Domino's Pizza USA|com.dominospizza|Domino's Pizza LLC|Food & Drink|Free|Android|1075335|4.739
+APUS Booster - Space Cleaner & Booster|com.apusapps.tools.booster|APUS APPS|Productivity|Free|Android|1050549|4.584
+Five Nights at Freddy's 3 Demo|com.scottgames.fnaf3demo|Scott Cawthon|Action|Free|Android|1056350|4.48
+Minecraft|com.telltalegames.minecraft100|Telltale Games|Adventure|Free|Android|1061415|4.32
+Tap Tap Dash|com.secondarm.taptapdash|Cheetah Games|Arcade|Free|Android|1055471|4.551
+SNOW - Beauty & makeup camera|com.campmobile.snow|SNOW, Inc.|Photography|Free|Android|1066915|4.283
+Flash Keyboard - Emoji & Theme|com.dotc.ime.latin.flash|Flashkeyboard Team|Productivity|Free|Android|1044177|4.227
+Toca Kitchen 2|com.tocaboca.tocakitchen2|Toca Boca|Educational|Free|Android|1061668|4.487
+LINE WEBTOON - Free Comics|com.naver.linewebtoon|NAVER WEBTOON CORP.|Comics|Free|Android|1069046|4.522
+Zombie Catchers|fi.twomenandadog.zombiecatchers|Zombie Catchers|Action|Free|Android|1073557|4.699
+Speedtest by Ookla|org.zwanoo.android.speedtest|Ookla|Tools|Free|Android|1047005|4.392
+Saavn Music & Radio|com.saavn.android|Saavn Media Pvt. Ltd.|Music and Audio|Free|Android|1053619|4.228
+Photo Collage Editor|com.zentertain.photocollage|Zentertain|Photography|Free|Android|1030555|4.172
+Fame Boom for Real Followers, Likes|fame.boom.get.followers|Stop Purchase|Social|Free|Android|1024101|4.674
+KIM KARDASHIAN|com.glu.stardomkim|Glu|Adventure|Free|Android|1029259|4.336
+Block Craft 3D|com.fungames.blockcraft|Fun Games For Free|Simulation|Free|Android|1083252|4.493
+OfficeSuite |com.mobisystems.office|MobiSystems|Business|Free|Android|1037671|4.328
+Ola cabs - Taxi, Auto, Car Rental, Share Booking|com.olacabs.customer|olacabs|Maps & Navigation|Free|Android|1051090|4.061
+3D Tennis|com.cg.tennis|Mouse Games|Sports|Free|Android|1014796|4.193
+Block Strike|com.rexetstudio.blockstrike|Rexet Studio|Action|Free|Android|1066365|4.47
+Antivirus Free - Virus Cleaner|com.zrgiu.antivirus|NQ Security Lab.|Tools|Free|Android|1017056|4.453
+Wrestling Revolution 3D|air.WR3DFree|MDickie|Sports|Free|Android|1020609|4.289
+BeeTalk|com.beetalk|BeeTalk Private Ltd|Social|Free|Android|1055215|4.039
+letgo|com.abtnprojects.ambatana|letgo|Shopping|Free|Android|1047910|4.483
+Drive Ahead!|com.dodreams.driveahead|Dodreams Ltd.|Racing|Free|Android|1034425|4.467
+Magic Piano by Smule|com.smule.magicpiano|Smule|Music and Audio|Free|Android|1001430|4.07
+Angry Gran Run - Running Game|com.aceviral.angrygranrun|Ace Viral|Racing|Free|Android|1001092|4.235
+Vault-Hide SMS,Pics & Videos,App Lock, Free backup|com.netqin.ps|NQ Mobile Security (NYSE|Business|Free|Android|1015747|4.46
+Family Guy The Quest for Stuff|com.tinyco.familyguy|TinyCo|Adventure|Free|Android|997410|4.036
+N.O.V.A. Legacy|com.gameloft.android.ANMP.GloftNOHM|Gameloft|Action|Free|Android|1036117|4.461
+Weather by WeatherBug|com.aws.android|WeatherBug|Weather|Free|Android|1019948|4.525
+Music Player - Audio Player|media.music.musicplayer|Mobile_V5|Music and Audio|Free|Android|1001230|4.266
+Jellipop Match|com.jellyblast.cmcm|Microfun Limited|Puzzle|Free|Android|997915|4.592
+Mobizen Screen Recorder for SAMSUNG|com.rsupport.mobizen.sec|MOBIZEN|Video Players|Free|Android|1014162|4.435
+iMobile by ICICI Bank|com.csam.icici.bank.imobile|ICICI Bank Ltd.|Finance|Free|Android|1080173|4.529
+Farm Heroes Super Saga|com.king.farmheroessupersaga|King|Casual|Free|Android|995757|4.46
+Paradise Island|com.seventeenbullets.android.island|Game Insight Classics|Simulation|Free|Android|978366|4.574
+Mobile Recharge,Bill Payments,UPI & Money Transfer|com.mobikwik_new|MobiKwik|Finance|Free|Android|997232|4.104
+S Photo Editor - Collage Maker, Photo Collage|com.steam.photoeditor|GOMO|Photography|Free|Android|977104|4.404
+FRONTLINE COMMANDO 2|com.glu.flc2|Glu|Action|Free|Android|972533|4.314
+Magisto Video Editor & Maker|com.magisto|Magisto|Video Players|Free|Android|976506|4.304
+Dailyhunt (Newshunt) - Latest News, Viral Videos|com.eterno|Newshunt|News and Magazines|Free|Android|992834|4.317
+DEER HUNTER 2018|com.glu.deerhunt16|Glu|Action|Free|Android|967283|4.32
+CarX Drift Racing|com.CarXTech.CarXDriftRacingFull|CarX Technologies|Racing|Free|Android|975161|4.555
+Amazon Music|com.amazon.mp3|Amazon Mobile LLC|Music and Audio|Free|Android|997243|4.268
+Jio4GVoice|com.jio.join|Reliance Industries Ltd.|Communication|Free|Android|985295|4.085
+CM FILE MANAGER|com.rhmsoft.fm|CM FILE MANAGER|Tools|Free|Android|959555|4.438
+Boomerang from Instagram|com.instagram.boomerang|Instagram|Photography|Free|Android|984372|4.368
+Lookout Security & Antivirus|com.lookout|Lookout Mobile Security|Tools|Free|Android|959951|4.418
+Onefootball - Soccer Scores|de.motain.iliga|Onefootball GmbH|Sports|Free|Android|988041|4.703
+Rail Rush|com.miniclip.railrush|Miniclip.com|Arcade|Free|Android|958675|4.251
+Pyramid Solitaire Saga|com.king.pyramidsolitairesaga|King|Card|Free|Android|963410|4.439
+Adobe Photoshop Express|com.adobe.psmobile|Adobe|Photography|Free|Android|984990|4.239
+Zombie Roadkill 3D|com.wordsmobile.zombieroadkill|Italic Games|Arcade|Free|Android|955190|4.333
+BookMyShow Entertainment|com.bt.bms|Bigtree Entertainment Pvt. Ltd.|Entertainment|Free|Android|984712|4.324
+Can You Escape|air.com.mobigrow.canyouescape|MobiGrow|Puzzle|Free|Android|945814|4.348
+Video Downloader for Facebook|fb.video.downloader|Linterna Apps|Tools|Free|Android|996955|4.599
+Nebulous|software.simplicial.nebulous|Simplicial Software, LLC|Action|Free|Android|967989|4.524
+JW Library|org.jw.jwlibrary.mobile|Jehovah's Witnesses|Books and Reference|Free|Android|965619|4.875
+MapFactor GPS Navigation Maps|com.mapfactor.navigator|MapFactor|Maps & Navigation|Free|Android|941410|4.485
+Hola Free VPN Proxy|org.hola|Hola|Tools|Free|Android|967211|4.518
+ZigZag|com.ketchapp.zigzaggame|Ketchapp|Arcade|Free|Android|934667|4.159
+World Soccer League|com.touchtao.soccerkinggoogle|mobirix|Sports|Free|Android|994847|4.347
+Racing Rivals|com.ciegames.RacingRivals|Glu|Racing|Free|Android|933316|3.929
+Get Wallet Cash & Recharge|com.taskbucks.taskbucks|TaskBucks|Entertainment|Free|Android|931982|4.367
+AnTuTu Benchmark|com.antutu.ABenchMark|AnTuTu|Tools|Free|Android|932278|4.584
+Assassin's Creed Pirates|com.ubisoft.assassin.pirates|Ubisoft Entertainment|Action|Free|Android|929283|4.449
+WordBrain|se.maginteractive.wordbrain|MAG Interactive|Word|Free|Android|928819|4.363
+Amazon Shopping|com.amazon.mShop.android.shopping|Amazon Mobile LLC|Shopping|Free|Android|965024|4.283
+Card Wars Kingdom|com.turner.cardwars2|Cartoon Network|Card|Free|Android|931492|4.312
+Casino Slots|com.pacificinteractive.HouseOfFun|PLAYTIKA UK - HOUSE OF FUN LIMITED|Casino|Free|Android|960071|4.555
+Kill Shot|com.hotheadgames.google.free.rawsniper|Hothead Games|Simulation|Free|Android|924288|4.314
+Google News|com.google.android.apps.magazines|Google LLC|News and Magazines|Free|Android|972954|3.955
+Jaumo Dating, Flirt & Live Video|com.jaumo|Jaumo|Social|Free|Android|943224|4.439
+Google Play Movies & TV|com.google.android.videos|Google LLC|Video Players|Free|Android|952483|3.676
+Smurfs' Village|com.capcom.smurfsandroid|Flashman Games LLC|Casual|Free|Android|917017|4.436
+My Boo - Your Virtual Pet Game|br.com.tapps.myboo|Tapps Games|Casual|Free|Android|917878|4.423
+CCleaner|com.piriform.ccleaner|Piriform|Tools|Free|Android|968238|4.441
+Burger|com.magmamobile.game.Burger|Magma Mobile|Casual|Free|Android|907054|4.224
+C Launcher|com.cma.launcher.lite|C Launcher Team  - Fast Smart Launch|Personalization|Free|Android|906841|4.546
+Dictionary.com|com.dictionary|Dictionary.com, LLC|Books and Reference|Free|Android|907939|4.565
+Mobile Strike|com.epicwaronline.ms|Epic War|Strategy|Free|Android|902941|3.875
+Panda Pop - Bubble Shooter Game. Blast, Shoot Free|com.sgn.pandapop.gp|Jam City, Inc.|Puzzle|Free|Android|904650|4.414
+Teen Patti Gold - With Poker & Rummy|com.teenpatti.hd.gold|Moonfrog|Casino|Free|Android|937385|4.58
+Shoot Bubble Deluxe|com.shootbubble.bubbledexlue|City Games LLC|Puzzle|Free|Android|894520|4.038
+Basketball Stars|com.miniclip.basketballstars|Miniclip.com|Sports|Free|Android|908360|4.441
+aa|com.aa.generaladaptiveapps|General Adaptive Apps Pty Ltd|Strategy|Free|Android|891073|4.204
+Swift WiFi - Free WiFi Hotspot Portable|mobi.wifi.toolbox|DotC United Swift Team|Travel and Local|Free|Android|888746|4.167
+MegaN64 (N64 Emulator)|com.aspieapps.free.emulator|Fastest Game Emulators for Android|Casual|Free|Android|893735|4.556
+OLX - Comprar e Vender|com.schibsted.bomnegocio.androidApp|OLX Brasil|Shopping|Free|Android|928685|4.219
+Brightest Flashlight - LED Light|com.intellectualflame.ledflashlight.washer|Finger Studios|Tools|Free|Android|892130|4.551
+Zombie Smasher|com.moistrue.zombiesmasher|Italic Games|Arcade|Free|Android|885371|4.256
+Euro Truck Driver (Simulator)|com.ovilex.eurotruckdriver|Ovidiu Pop|Simulation|Free|Android|900260|4.382
+Alarm Clock|com.alarmclock.xtreme.free|AVG Labs|Productivity|Free|Android|890068|4.537
+CSR Classics|com.naturalmotion.csrclassics|NaturalMotionGames Ltd|Racing|Free|Android|874323|4.469
+Psiphon|com.psiphon3|Psiphon Inc.|Communication|Free|Android|886508|4.306
+Google Calendar|com.google.android.calendar|Google LLC|Productivity|Free|Android|907059|4.162
+PhotoWonder|cn.jingling.motu.photowonder|Do Global|Photography|Free|Android|885794|4.401
+Archery Master 3D|com.junerking.archery|TerranDroid|Sports|Free|Android|875206|4.25
+Cookie Jam - Match 3 Games & Free Puzzle Game|air.com.sgn.cookiejam.gp|Jam City, Inc.|Puzzle|Free|Android|886812|4.349
+Modern Strike Online|com.gamedevltd.modernstrike|Azur Interactive Games Limited|Action|Free|Android|895443|4.259
+Sniper Fury|com.gameloft.android.ANMP.GloftFWHM|Gameloft|Action|Free|Android|881166|4.289
+Cover Fire|com.generagames.resistance|Genera Games|Action|Free|Android|938855|4.698
+Google Now Launcher|com.google.android.launcher|Google LLC|Tools|Free|Android|862185|4.244
+SpecialSoldier - Best FPS|com.wellgames.ss|NEXON Company|Action|Free|Android|873814|4.485
+Trial Xtreme 3|com.x3m.tx3|Deemedya INC|Racing|Free|Android|859375|4.317
+Last Empire - War Z|com.longtech.lastwars.gp|im30.net|Strategy|Free|Android|859446|4.183
+Cricbuzz - Live Cricket Scores & News|com.cricbuzz.android|Cricbuzz.com|Sports|Free|Android|870082|4.469
+Hidden City|com.g5e.hiddencity.android|G5 Entertainment|Adventure|Free|Android|870642|4.378
+Kritika|com.gamevil.kritikamobile.android.google.global.normal|GAMEVIL|Game Role Playing|Free|Android|849973|4.251
+Snapseed|com.niksoftware.snapseed|Google LLC|Photography|Free|Android|872034|4.523
+Choices|com.pixelberrystudios.choices|Pixelberry|Simulation|Free|Android|888303|4.579
+Stick War|com.maxgames.stickwarlegacy|Max Games Studios|Strategy|Free|Android|887285|4.634
+BMX Boy|com.game.BMX_Boy|MiniCard|Racing|Free|Android|843389|4.237
+Diary with lock|com.adpog.diary|WriteDiary.com|Lifestyle|Free|Android|860489|4.568
+Legacy of Discord-FuriousWings|com.gtarcade.lod|GTarcade|Action|Free|Android|850825|4.34
+Messages|com.google.android.apps.messaging|Google LLC|Communication|Free|Android|912397|4.172
+Google Docs|com.google.android.apps.docs.editors.docs|Google LLC|Productivity|Free|Android|874668|4.334
+Sniper Shooter Free - Fun Game|com.fungamesforfree.snipershooter.free|Fun Games For Free|Action|Free|Android|840019|4.547
+Angry Birds Friends|com.rovio.angrybirdsfriends|Rovio Entertainment Corporation|Arcade|Free|Android|846517|4.251
+Runtastic Running App & Mile Tracker|com.runtastic.android|Runtastic|Health and fitness|Free|Android|845375|4.521
+Perfect Piano|com.gamestar.perfectpiano|Revontulet Soft Inc|Music|Free|Android|842744|4.188
+My Dolphin Show|com.spilgames.mydolphinshow|Spil Games|Casual|Free|Android|841582|4.552
+Kaave - Coffee Cup Readings|com.didilabs.kaavefali|Didilabs BV|Entertainment|Free|Android|848324|4.485
+VPN Free - Betternet Hotspot VPN & Private Browser|com.freevpnintouch|Betternet LLC|Tools|Free|Android|868272|4.494
+No Crop & Square for Instagram|com.rcplatform.nocrop|RILEY CILLIAN|Photography|Free|Android|831005|4.573
+Amazon Kindle|com.amazon.kindle|Amazon Mobile LLC|Books and Reference|Free|Android|837407|4.159
+Piano Free - Keyboard with Magic Tiles Music Games|com.gismart.realpianofree|Gismart|Music|Free|Android|865634|4.511
+Jungle Heat|ru.mail.games.android.JungleHeat|My.com B.V.|Strategy|Free|Android|822760|4.389
+FIFA 16 Soccer|com.ea.gp.fifaworld|ELECTRONIC ARTS|Sports|Free|Android|819719|4.055
+InstaSize|com.jsdev.instasize|Munkee Apps, Inc. (Photo Editor)|Photography|Free|Android|821830|4.327
+My Talking Hank|com.outfit7.mytalkinghank|Outfit7 Limited|Casual|Free|Android|835138|4.618
+Crisis Action|com.herogames.gplay.crisisactionsa|HERO Game|Action|Free|Android|821521|4.252
+Prisma Photo Editor|com.neuralprisma|Prisma Labs, inc.|Photography|Free|Android|819566|4.247
+Littlest Pet Shop|com.gameloft.android.ANMP.GloftPEHM|Gameloft|Casual|Free|Android|811401|4.269
+Just Dance Now|com.ubisoft.dance.JustDance|Ubisoft Entertainment|Music|Free|Android|818290|4.185
+Beat the Boss 3|com.gamehivecorp.beattheboss3|Game Hive Corporation|Action|Free|Android|806224|4.348
+Get new friends on local chat rooms|drug.vokrug|My Friends Social|Social|Free|Android|817666|4.307
+Zing MP3|com.zing.mp3|Zalo Group|Music and Audio|Free|Android|820745|4.179
+Dailymotion|com.dailymotion.dailymotion|Dailymotion|Entertainment|Free|Android|803569|4.233
+Real Drum - The Best Drum Pads Simulator|br.com.rodrigokolb.realdrum|Kolb Apps|Music and Audio|Free|Android|807078|4.351
+Bomber Friends|com.hyperkani.bomberfriends|Hyperkani|Action|Free|Android|828947|4.457
+BlaBlaCar, Trusted Carpooling|com.comuto|BlaBlaCar|Travel and Local|Free|Android|852916|4.372
+PES CLUB MANAGER|jp.konami.pesclubmanager|KONAMI|Sports|Free|Android|810115|4.365
+BLOOD & GLORY|com.glu.gladiator|Glu|Action|Free|Android|793971|4.503
+iFood - Delivery de Comida|br.com.brainweb.ifood|iFood|Food & Drink|Free|Android|877933|4.616
+GO Speed (Clean Boost Free)|com.gto.zero.zboost|GOMO|Tools|Free|Android|793550|4.605
+Colorfy|com.fungamesforfree.colorfy|Fun Games For Free|Entertainment|Free|Android|795462|4.498
+Stickman Warriors|com.ViperGames.StickmanWarriors|ViperGames|Casual|Free|Android|797932|4.387
+WWE Immortals|com.wb.wwe.brawler2014|Warner Bros. International Enterprises|Action|Free|Android|793070|4.362
+Transparent clock & weather|com.droid27.transparentclockweather|MACHAPP Software Ltd|Weather|Free|Android|801351|4.397
+Geometry Dash World|com.robtopx.geometrydashworld|RobTop Games|Arcade|Free|Android|804802|4.585
+2GIS|ru.dublgis.dgismobile|DoubleGIS, LLC|Travel and Local|Free|Android|793406|4.543
+Garena AOV - Arena of Valor|com.garena.game.kgid|MOBA Games Private Limited|Action|Free|Android|843919|4.162
+AZ Screen Recorder - No Root|com.hecorat.screenrecorder.free|Hecorat|Video Players|Free|Android|810984|4.609
+VSCO|com.vsco.cam|VSCO|Photography|Free|Android|807838|4.415
+Block City Wars|block.app.wars|D-Games Apps|Simulation|Free|Android|798302|4.475
+Reverse Movie FX - magic video|com.mobile.bizo.reverse|Bizo Mobile|Video Players|Free|Android|784777|4.622
+MSQRD|me.msqrd.android|Facebook|Social|Free|Android|773334|4.299
+AirBrush|com.magicv.airbrush|MEITU|Photography|Free|Android|807964|4.8
+Happy Mall Story|com.happylabs.happymall|Happy Labs|Simulation|Free|Android|783408|4.494
+Bad Piggies HD|com.rovio.BadPiggiesHD|Rovio Entertainment Corporation|Puzzle|Free|Android|776147|4.355
+Jewels Star|com.game.JewelsStar|ITREEGAMER|Casual|Free|Android|772145|4.5
+MakeupPlus - Your Own Virtual Makeup Artist|com.meitu.makeup|Meitu, Inc.|Photography|Free|Android|781043|4.425
+Perfect365|com.arcsoft.perfect365|Perfect365, Inc.|Beauty|Free|Android|770614|4.245
+File Commander - File Manager/Explorer|com.mobisystems.fileman|MobiSystems|Business|Free|Android|781067|4.295
+Hello English|com.CultureAlley.japanese.english|Culture Alley|Education|Free|Android|782276|4.606
+Photomath|com.microblink.photomath|Photomath, Inc.|Education|Free|Android|855320|4.674
+Layout from Instagram|com.instagram.layout|Instagram|Photography|Free|Android|776332|4.353
+Anghami - Free Unlimited Music|com.anghami|Anghami|Music and Audio|Free|Android|788552|4.489
+Bus Rush|com.playappking.busrush|Play365|Action|Free|Android|761190|4.085
+Family Locator - GPS Tracker|com.life360.android.safetymapd|Life360|Lifestyle|Free|Android|794459|4.446
+Vainglory 5V5|com.superevilmegacorp.game|Super Evil Megacorp|Strategy|Free|Android|763983|4.365
+SHADOWGUN|com.madfingergames.deadzone|MADFINGER Games|Action|Free|Android|747972|4.411
+HiFont - Cool Font Text Free + Galaxy FlipFont|com.xinmei365.font|Hi Fonts - Cool Font Text Free + Galaxy FlipFont|Personalization|Free|Android|752513|4.145
+File Manager|com.asus.filemanager|ZenUI, ASUS Computer Inc.|Tools|Free|Android|748814|4.569
+Vegas Crime Simulator|com.mgc.miami.crime.simulator.two|Naxeex LLC|Simulation|Free|Android|757349|4.245
+LINE Launcher|com.campmobile.launcher|OGQ for iconnect.|Personalization|Free|Android|738770|4.447
+Reddit|com.reddit.frontpage|reddit Inc.|News and Magazines|Free|Android|773669|4.584
+Pianist HD |com.rubycell.pianisthd|rubycell|Music and Audio|Free|Android|734620|4.387
+PhotoDirector Photo Editor App, Picture Editor Pro|com.cyberlink.photodirector|CyberLink.com|Photography|Free|Android|743930|4.628
+Talking Pierre the Parrot|com.outfit7.talkingpierrefree|Outfit7 Limited|Entertainment|Free|Android|727338|4.201
+Photo Collage Maker - Photo Grid Editor & MakeUp|com.lyrebirdstudio.collage|Lyrebird Studio|Photography|Free|Android|734614|4.422
+Credit Karma|com.creditkarma.mobile|Credit Karma, Inc.|Finance|Free|Android|740601|4.728
+Google Pay (Tez) - a simple and secure payment app|com.google.android.apps.nbu.paisa.user|Google LLC|Finance|Free|Android|993388|4.516
+CONTRACT KILLER 2|com.glu.contractkiller2|Glu|Action|Free|Android|714230|4.296
+Racing Moto|com.droidhen.game.racingmoto|Droidhen Casual|Racing|Free|Android|725255|4.312
+Power Battery - Battery Life Saver & Health Test|com.lionmobi.battery|LIONMOBI|Tools|Free|Android|736819|4.488
+Tom's Love Letters|com.outfit7.tomslovelettersfree|Outfit7 Limited|Entertainment|Free|Android|709320|4.15
+Talking Ginger 2|com.outfit7.gingersbirthdayfree|Outfit7 Limited|Entertainment|Free|Android|709256|4.159
+PAC-MAN|com.namcobandaigames.pacmantournaments|BANDAI NAMCO Entertainment America Inc.|Arcade|Free|Android|721989|4.17
+Indeed Job Search|com.indeed.android.jobsearch|Indeed Jobs|Business|Free|Android|733673|4.299
+Emoji Keyboard Cute Emoticons - Theme, GIF, Emoji|emoji.keyboard.emoticonkeyboard|Colorful Emoji Keyboard|Tools|Free|Android|704935|4.287
+Google Keep - Notes and Lists|com.google.android.keep|Google LLC|Productivity|Free|Android|716589|4.42
+Zello PTT Walkie Talkie|com.loudtalks|Zello Inc|Social|Free|Android|701257|4.397
+GO Music  -  Free Music, Equalizer, Themes|com.jiubang.go.music|GOMO Limited|Music and Audio|Free|Android|706296|4.467
+BestMe Selfie Camera|com.rcplatform.selfiecamera|RILEY CILLIAN|Photography|Free|Android|693764|4.627
+Talking Tom Bubble Shooter|com.outfit7.tomsbubbles|Outfit7 Limited|Casual|Free|Android|693947|4.414
+Royal Revolt 2|com.flaregames.rrtournament|Flaregames|Action|Free|Android|692919|4.515
+SoundHound - Music Discovery & Hands-Free Player|com.melodis.midomiMusicIdentifier.freemium|SoundHound Inc.|Music and Audio|Free|Android|712403|4.327
+Unblock Me FREE|com.kiragames.unblockmefree|Kiragames Co., Ltd.|Puzzle|Free|Android|688437|4.272
+imo beta free calls and text|com.imo.android.imoimbeta|imo.im|Communication|Free|Android|704853|4.35
+Microsoft Launcher|com.microsoft.launcher|Microsoft Corporation|Personalization|Free|Android|723052|4.647
+PayPal Mobile Cash|com.paypal.android.p2pmobile|PayPal Mobile|Finance|Free|Android|727197|4.353
+CONTRACT KILLER|com.glu.contractkiller3|Glu|Action|Free|Android|676487|4.218
+PicLab - Photo Editor|com.apperto.piclabapp|We Heart It|Photography|Free|Android|675942|4.503
+RAR|com.rarlab.rar|RARLAB (published by win.rar GmbH)|Tools|Free|Android|680443|4.43
+Flippy Knife|com.BeresnevGames.Knife|Beresnev Games|Action|Free|Android|682458|4.719
+Flip Diving|com.motionvolt.flipdiving|Miniclip.com|Sports|Free|Android|682906|4.492
+Samsung Push Service|com.sec.spp.push|Samsung Electronics Co.,  Ltd.|Communication|Free|Android|677137|4.13
+DRAGON BALL Z DOKKAN BATTLE|com.bandainamcogames.dbzdokkanww|BANDAI NAMCO Entertainment Inc.|Action|Free|Android|683685|4.123
+Bradesco|com.bradesco|Banco Bradesco SA|Finance|Free|Android|765085|4.13
+Flight Simulator|com.i6.FlightSimulatorAirplane3D|i6 Games|Simulation|Free|Android|669717|3.971
+Zombie Age 2|com.redantz.game.zombie|DIVMOB|Action|Free|Android|668613|4.383
+InstaBeauty -Makeup Selfie Cam|com.fotoable.fotobeauty|Fotoable,Inc.|Photography|Free|Android|668217|4.284
+Guns|com.calfordcn.gu|Calford|Action|Free|Android|663363|4.234
+Microsoft PowerPoint|com.microsoft.office.powerpoint|Microsoft Corporation|Productivity|Free|Android|735553|4.468
+Ultimate Soccer - Football|com.cg.football|Mouse Games|Sports|Free|Android|658932|4.02
+ai.type Free Emoji Keyboard|com.aitype.android|ai.type|Personalization|Free|Android|655593|4.261
+Santander Brasil|com.santander.app|Banco Santander (Brasil) S.A.|Finance|Free|Android|682265|4.253
+BombSquad|net.froemling.bombsquad|Eric Froemling|Action|Free|Android|662617|4.47
+Bullet Force|com.blayzegames.iosfps|Blayze Games, L.L.C.|Action|Free|Android|662170|4.537
+Magic Tiles 3|com.youmusic.magictiles|AMANOTES|Music|Free|Android|711156|4.486
+Beach Buggy Blitz|com.vectorunit.yellow|Vector Unit|Racing|Free|Android|643897|4.194
+TouchPal Emoji Keyboard|com.emoji.keyboard.touchpal|TouchPal Emoji Keyboard Team|Personalization|Free|Android|678487|4.357
+Square InPic - Photo Editor & Collage Maker|com.studio8apps.instasizenocrop|Studio 8 Apps|Photography|Free|Android|642643|4.414
+Geometry Dash|com.robtopx.geometryjump|RobTop Games|Arcade|$1.99|Android|640457|4.763
+Robbery Bob|com.chillingo.robberybobfree.android.row|Level Eight AB|Action|Free|Android|669773|4.486
+Moovit|com.tranzmate|Moovit|Maps & Navigation|Free|Android|655789|4.371
+Word search|com.quelaba.sopaletras|AppDrac|Word|Free|Android|636144|4.104
+ASUS PixelMaster Camera|com.asus.camera|ZenUI, ASUS Computer Inc.|Photography|Free|Android|636264|4.436
+Rock Hero|com.grillgames.guitarrockhero|Play365|Music|Free|Android|631034|3.728
+Barcode Scanner|com.google.zxing.client.android|ZXing Team|Shopping|Free|Android|626856|4.076
+Peel Smart Remote TV Guide|tv.peel.samsung.app|Peel Technologies|Video Players|Free|Android|635111|4.31
+PlayStation App|com.scee.psxandroid|PlayStation Mobile Inc.|Entertainment|Free|Android|637310|4.169
+iKeyboard - emoji, emoticons|com.emoji.ikeyboard|iKeyboard Team|Personalization|Free|Android|626140|4.453
+Free GPS Navigation|cz.aponia.bor3|Maps & GPS Navigation|Maps & Navigation|Free|Android|631037|4.249
+Peel Universal Smart TV Remote Control|tv.peel.app|Peel Technologies Inc.|House & Home|Free|Android|664418|3.95
+Solitaire|com.kathleenOswald.solitaireGooglePlay|Zynga|Card|Free|Android|620071|4.264
+Flashlight HD LED|ch.smalltech.ledflashlight.free|smallte.ch|Tools|Free|Android|619473|4.324
+Sea Battle|com.byril.seabattle|BYRIL|Action|Free|Android|619361|4.452
+Lara Croft|com.squareenix.relicrun|SQUARE ENIX Ltd|Action|Free|Android|631623|4.352
+File Browser by Astro (File Manager)|com.metago.astro|Metago|Tools|Free|Android|612227|4.278
+QR & Barcode Scanner|com.gamma.scan|Gamma Play|Tools|Free|Android|665661|4.439
+Broken Screen Prank|com.crack.screen.prank.bfun|Eijoy Entertainment|Entertainment|Free|Android|614363|4.551
+WARSHIP BATTLE|com.joycity.warshipbattle|JOYCITY Corp.|Action|Free|Android|616256|4.284
+Fotor Photo Editor - Photo Collage & Photo Effects|com.everimaging.photoeffectstudio|Everimaging Ltd.|Photography|Free|Android|600183|4.523
+free video calls and chat|ru.mail|Mail.Ru Group|Communication|Free|Android|599602|4.23
+Anger of stick 5 |jpark.AOS5|J-PARK|Action|Free|Android|642736|4.549
+Audiobooks from Audible|com.audible.application|Audible, Inc|Books and Reference|Free|Android|615628|4.512
+SuperVPN Free VPN Client|com.jrzheng.supervpnfree|SuperSoftTech|Tools|Free|Android|595913|4.267
+Mobile Security|com.wsandroid.suite|McAfee LLC|Productivity|Free|Android|601328|4.416
+Gunship Strike 3D|com.wordsmobile.gunship|Candy Mobile|Action|Free|Android|593564|4.365
+Kill Shot Bravo|com.hotheadgames.google.free.ks2|Hothead Games|Action|Free|Android|585813|4.431
+SpongeBob Diner Dash|com.playfirst.playground.dinerdashspongebob|Glu|Casual|Free|Android|578622|3.986
+Mobile Security & Antivirus|com.eset.ems2.gp|ESET|Productivity|Free|Android|584746|4.689
+Block Puzzle Jewel|com.differencetenderwhite.skirt|hua weiwei|Puzzle|Free|Android|645700|4.396
+Sea Battle 2|com.byril.seabattle2|BYRIL|Action|Free|Android|580685|4.577
+ETERNITY WARRIORS 2|com.glu.ewarriors2|Glu|Action|Free|Android|568919|4.55
+Scoompa Video - Slideshow Maker and Video Editor|com.scoompa.slideshow|Scoompa|Photography|Free|Android|575124|4.461
+Marble Legend|com.easygame.marblelegend|easygame7|Puzzle|Free|Android|567644|4.051
+MEGA|mega.privacy.android.app|Mega Ltd|Productivity|Free|Android|577804|4.036
+UNKILLED - Zombie Multiplayer Shooter|com.madfingergames.unkilled|MADFINGER Games|Action|Free|Android|566462|4.492
+Puffin Web Browser|com.cloudmosa.puffinFree|CloudMosa, Inc.|Communication|Free|Android|580268|4.258
+Samsung Internet Browser|com.sec.android.app.sbrowser|Samsung Electronics Co.,  Ltd.|Communication|Free|Android|619516|4.424
+Polaris Office - Word, Docs, Sheets, Slide, PDF|com.infraware.office.link|Infraware Inc.|Productivity|Free|Android|558261|4.288
+Fighting Tiger - Liberal|com.jiinfeng3d.bfrdemo|Jiin Feng|Action|Free|Android|558661|4.29
+Real Steel Boxing Champions|com.reliancegames.rschampions|Reliance Big Entertainment (UK) Private Limited|Action|Free|Android|560763|4.397
+Talking Tom Jetski|com.outfit7.tomsjetski|Outfit7 Limited|Casual|Free|Android|554813|4.355
+Walk Band - Multitracks Music|com.gamestar.pianoperfect|Revontulet Soft Inc|Music and Audio|Free|Android|549614|4.325
+Billiards City|com.billiards.city.pool.nation.club|MOUNTAIN GAME|Sports|Free|Android|647329|4.522
+Smashy Road|com.rkgames.smashywanted|Bearbit Studios B.V.|Action|Free|Android|548796|4.311
+Photo Collage - InstaMag|com.instamag.activity|Fotoable,Inc.|Photography|Free|Android|542939|4.326
+All-In-One Toolbox|imoblife.toolbox.full|AIO Software Technology CO., Ltd.|Productivity|Free|Android|546232|4.665
+AVD Download Video|com.myboyfriendisageek.videocatcher.demo|Spring Labs|Video Players|Free|Android|541492|3.886
+Strawberry Shortcake BerryRush|com.miniclip.berryrush|Miniclip.com|Action|Free|Android|534829|4.301
+myIM3|com.pure.indosat.care|Indosat Ooredoo|Personalization|Free|Android|638477|4.22
+Mirror Photo Editor|com.lyrebirdstudio.mirror|Lyrebird Studio|Photography|Free|Android|531300|4.296
+Walli - 4K, HD Wallpapers & Backgrounds|com.shanga.walli|Shanga|Personalization|Free|Android|552544|4.86
+Major Mayhem|com.turner.asmajormayhem|[adult swim] games|Action|Free|Android|528722|4.609
+Arena of Valor|com.ngame.allstar.eu|Tencent Games|Action|Free|Android|577779|4.475
+News by The Times of India Newspaper - Latest News|com.toi.reader.activities|Times Internet Limited|News and Magazines|Free|Android|527843|4.201
+Alto's Adventure|com.noodlecake.altosadventure|Noodlecake Studios Inc|Action|Free|Android|529564|4.575
+KakaoStory|com.kakao.story|Kakao Corporation|Social|Free|Android|524782|3.665
+Bestie - Camera360 Selfie|us.pinguo.selfie|PinGuo Inc.|Photography|Free|Android|533124|4.489
+TeamViewer for Remote Control|com.teamviewer.teamviewer.market.mobile|TeamViewer|Productivity|Free|Android|528003|4.498
+Injustice 2|com.wb.goog.injustice.brawler2017|Warner Bros. International Enterprises|Action|Free|Android|538572|4.34
+Iron Force|com.chillingo.ironforce.android.rowgplay|CHILLINGO|Action|Free|Android|523146|4.278
+Find My Device|com.google.android.apps.adm|Google LLC|Tools|Free|Android|536329|4.34
+Knife Hit|com.ketchapp.knifehit|Ketchapp|Arcade|Free|Android|558220|4.542
+Samsung Pay|com.samsung.android.spay|Samsung Electronics Co.,  Ltd.|Lifestyle|Free|Android|543849|4.694
+Smart Launcher 5|ginlemon.flowerfree|Smart Launcher Team|Personalization|Free|Android|516542|4.39
+FRONTLINE COMMANDO|com.glu.dd2|Glu|Action|Free|Android|517246|4.242
+PhoneDeco _ wallpapers, theme|com.brainpub.phonedecor|OGQ for Phone Deco|Personalization|Free|Android|512695|4.432
+Google Sheets|com.google.android.apps.docs.editors.sheets|Google LLC|Productivity|Free|Android|529691|4.337
+Clear Vision 3 - Sniper Shooter|air.com.dpflashes.clearvision3|Eldring|Action|Free|Android|509227|4.384
+Samsung Health|com.sec.android.app.shealth|Samsung Electronics Co.,  Ltd.|Health and fitness|Free|Android|545804|4.294
+MiniMovie - Free Video and Slideshow Editor|com.asus.microfilm|ZenUI, ASUS Computer Inc.|Video Players|Free|Android|506436|4.519
+IMDb Movies & TV|com.imdb.mobile|IMDb|Entertainment|Free|Android|507119|4.24
+Ringtone Maker|com.herman.ringtone|Big Bang Inc.|Personalization|Free|Android|508875|4.353
+Sonic Dash 2|com.sega.sonicboomandroid|SEGA|Arcade|Free|Android|509833|4.458
+Verizon Messages|com.verizon.messaging.vzmsgs|Verizon - VZ|Communication|Free|Android|511882|4.631
+APUS File Manager (Explorer)|com.onegogo.explorer|OneGogo|Tools|Free|Android|499453|4.149
+BLOOD & GLORY (NR)|com.glu.gladiator_nr|Glu|Action|Free|Android|498335|4.589
+YouTube Kids|com.google.android.apps.youtube.kids|Google LLC|Entertainment|Free|Android|530562|4.455
+Microsoft OneNote|com.microsoft.office.onenote|Microsoft Corporation|Productivity|Free|Android|520073|4.384
+QR Code Reader|me.scan.android.client|Scan|Tools|Free|Android|498240|4.024
+Gods of Rome|com.gameloft.android.ANMP.GloftGOHM|Gameloft|Action|Free|Android|496984|4.372
+Google Home|com.google.android.apps.chromecast.app|Google LLC|Tools|Free|Android|511312|4.086
+T-Mobile|com.tmobile.pr.mytmobile|T-Mobile USA|Tools|Free|Android|509422|4.35
+Dr. Parking 4|com.ansangha.drparking4|SUD Inc.|Racing|Free|Android|504801|4.366
+YouTube Go|com.google.android.apps.youtube.mango|Google LLC|Video Players|Free|Android|627473|4.331
+News Republic - Breaking and trending news|com.mobilesrepublic.appy|News Republic|News and Magazines|Free|Android|499177|4.286
+Hair Salon - Fun Games|com.g6677.android.phairsalon|6677g.com|Casual|Free|Android|487341|3.778
+Wallpapers HD|com.incredibleapp.wallpapershd|IncredibleApp!|Personalization|Free|Android|485041|4.647
+Periscope - Live Video|tv.periscope.android|Twitter, Inc.|Social|Free|Android|486941|4.019
+Call Of ModernWar|com.bog.callofmodernwar|BraveTale|Action|Free|Android|481808|4.435
+Chess|com.jetstartgames.chess|Chess Prince|Board|Free|Android|542716|4.411
+Paper Toss|com.bfs.papertoss|Backflip Studios|Casual|Free|Android|481593|4.011
+Photo Studio|com.kvadgroup.photostudio|KVADGroup App Studio|Photography|Free|Android|482525|4.241
+PEPI Skate 3D|com.foosegames.pepiskate3d|Virtua Games - Jogo de Moto e Carro - Bike Games|Action|Free|Android|475601|3.725
+Alarm Clock for Me free|com.apalon.myclockfree|Apalon Apps|Productivity|Free|Android|486645|4.341
+LiveMe - Video chat, new friends, and make money|com.cmcm.live|Live.me Broadcast|Social|Free|Android|495276|4.45
+Street Racing 3D|com.combineinc.streetracing.driftthreeD|Ivy|Racing|Free|Android|496872|4.4
+Color Flashlight|com.socialnmobile.hd.flashlight|Notes|Tools|Free|Android|474845|4.167
+Tablet AntiVirus FREE 2018|com.antivirus.tablet|AVG Mobile|Productivity|Free|Android|476912|4.523
+War Machines|com.fungames.battletanksbeta|Fun Games For Free|Action|Free|Android|498340|4.587
+Rope Hero|com.mgc.RopeHero.ViceTown|Naxeex LLC|Action|Free|Android|488575|4.422
+NFL|com.gotv.nflgamecenter.us.lite|NFL Enterprises LLC|Sports|Free|Android|479123|4.094
+Mutants Genetic Gladiators|com.kobojo.mutants|Celsius online|Action|Free|Android|470782|4.514
+Peel Smart Remote|tv.peel.smartremote|Peel Technologies|Entertainment|Free|Android|479003|4.129
+Sky Map|com.google.android.stardroid|Sky Map Devs|Books and Reference|Free|Android|465626|4.476
+Mission Impossible RogueNation|com.glu.mi5|Glu|Action|Free|Android|467385|4.329
+JioCinema|com.jio.media.ondemand|Reliance Industries Ltd.|Entertainment|Free|Android|476396|4.373
+HD Camera Ultra|com.jessdev.hdcameras|Jess Development|Photography|Free|Android|462254|4.278
+Love Balls|com.supertapx.lovedots|Lion Studios|Puzzle|Free|Android|493520|4.213
+Tom & Jerry|com.globalfun.tj2015.google|GlobalFun Games|Arcade|Free|Android|459545|4.348
+Hitman Sniper|com.squareenixmontreal.hitmansniperandroid|SQUARE ENIX Ltd|Action|$0.99|Android|503976|4.581
+Axis Mobile- Fund Transfer,UPI,Recharge & Payment|com.axis.mobile|Axis Bank Ltd.|Finance|Free|Android|528483|4.47
+Face Changer|com.scoompa.facechanger|Scoompa|Entertainment|Free|Android|457589|4.15
+Amazon Prime Video|com.amazon.avod.thirdpartyclient|Amazon Mobile LLC|Entertainment|Free|Android|518197|4.263
+Prize Claw|com.gamecircus.PrizeClaw|Game Circus LLC|Arcade|Free|Android|457399|4.02
+Taxi Game|com.baklabs.taxi.simulator|baklabs|Simulation|Free|Android|451463|3.872
+Knights & Dragons - Action RPG|com.iugome.lilknights|Funzio Games, Inc|Action|Free|Android|450580|4.424
+Airtel TV|tv.accedo.airtel.wynk|Airtel|Entertainment|Free|Android|493483|4.211
+Snake VS Block|com.bentostudio.ballsvsblocks|VOODOO|Arcade|Free|Android|467686|4.257
+BLOOD & GLORY|com.glu.gladiator2|Glu|Action|Free|Android|447616|4.525
+My Idea-Recharge and Payments|com.ideacellular.myidea|Vodafone Idea Limited|Productivity|Free|Android|490302|4.36
+AppMgr III (App 2 SD, Hide and Freeze apps)|com.a0soft.gphone.app2sd|Sam Lu|Tools|Free|Android|444713|4.156
+ZenUI Dialer & Contacts|com.asus.contacts|ZenUI, ASUS Computer Inc.|Communication|Free|Android|444421|4.478
+Call Recorder - ACR|com.nll.acr|NLL|Productivity|Free|Android|474656|4.408
+World War Heroes|com.gamedevltd.wwh|Azur Interactive Games Limited|Action|Free|Android|472747|4.413
+HD Video Downloader |com.ne.hdv|Jmobile.io|Video Players|Free|Android|432758|3.658
+ASUS Weather|com.asus.weathertime|ZenUI, ASUS Computer Inc.|Weather|Free|Android|432925|4.56
+The Maze Runner|com.pikpok.mr.play|PIKPOK|Action|Free|Android|430213|4.048
+NQ Mobile Security & Antivirus|com.nqmobile.antivirus20|NQ Mobile Security (NYSE|Productivity|Free|Android|429401|4.417
+Zombie Diary 2|com.ezjoy.feelingtouch.zombiediary2|Mountain Lion|Action|Free|Android|429163|4.44
+Gun Shoot War|com.wawoo.gunshootwar|WAWOO Studio|Action|Free|Android|423286|4.0
+Podcast Addict|com.bambuna.podcastaddict|Xavier Guillemane|News and Magazines|Free|Android|430389|4.638
+Photo Editor Square Fit Snap Collage Maker - Lidow|com.baiwang.PhotoFeeling|Photo Editor Perfect Corp.|Photography|Free|Android|422306|4.546
+Flash Emoji Keyboard & Themes|com.xime.latin.lite|Tap  Apps|Productivity|Free|Android|423581|4.118
+Fastlane|com.spaceapegames.fastlane|Space Ape Games|Action|Free|Android|454936|4.708
+Akbank Direkt|com.akbank.android.apps.akbank_direkt|AKBANK|Finance|Free|Android|421928|4.514
+Keyboard|com.emoji.input.gif.theme.keyboard|Fotoable,Inc.|Tools|Free|Android|421910|4.358
+ShareCloud - Share By 1-Click|com.fw.appshare|For2ww|Tools|Free|Android|417973|4.318
+Kids Doodle - Color & Draw|com.doodlejoy.studio.kidsdoojoy|Doodle Joy Studio|Casual|Free|Android|416400|4.121
+Vigo Video - Funny Short Video|com.ss.android.ugc.boom|Bytemod Pte.Ltd|Social|Free|Android|456239|4.288
+SBI Anywhere Personal - Mobile Banking Application|com.sbi.SBIFreedomPlus|State Bank of India|Finance|Free|Android|500928|4.039
+reddit is fun (unofficial)|com.andrewshu.android.reddit|TalkLittle|News and Magazines|Free|Android|413420|4.69
+THE KING OF FIGHTERS-A 2012(F)|com.snkplaymore.android010|SNK CORPORATION|Action|Free|Android|415415|4.415
+Wunderlist|com.wunderkinder.wunderlistandroid|6 Wunderkinder GmbH|Productivity|Free|Android|418368|4.582
+League of Stickman Free- Arena PVP(Dreamsky)|me.dreamsky.leagueofstickman|DreamSky|Action|Free|Android|413205|4.467
+Ultimate Ninja Blazing|com.bandainamcoent.narutoblazingna|BANDAI NAMCO Entertainment Inc.|Action|Free|Android|419796|4.351
+SAMURAI vs ZOMBIES DEFENSE|com.glu.samuzombie|Glu|Action|Free|Android|409026|4.528
+Dude Perfect 2|com.miniclip.dudeperfect|Miniclip.com|Action|Free|Android|410186|4.524
+Grand Gangsters 3D|com.wordsmobile.grandfightgangsters|Doodle Mobile Ltd.|Action|Free|Android|411826|4.188
+Tiny Troopers 2|com.chillingo.tinytroopers2.android.rowgplay|CHILLINGO|Action|Free|Android|414379|4.507
+Video MP3 Converter|com.fundevs.app.mediaconverter|FunDevs LLC|Music and Audio|Free|Android|429534|4.476
+Selfie Photo Editor|com.lyrebirdstudio.colorizer.lite|Lyrebird Studio|Photography|Free|Android|404423|4.24
+Booster & Cleaner|com.netqin.mobileguard|NQ Mobile Security (NYSE|Productivity|Free|Android|402520|4.448
+Daddy Was A Thief|com.rebeltwins.daddywasathief|Rebel Twins|Action|Free|Android|399481|4.227
+Inbox by Gmail|com.google.android.apps.inbox|Google LLC|Productivity|Free|Android|400335|4.222
+YouTube Music|com.google.android.apps.youtube.music|Google LLC|Music and Audio|Free|Android|428091|4.2
+TubeMote|com.tubemote.app|TubeMote|Entertainment|Free|Android|401178|3.595
+Zapya - File Transfer, Sharing|com.dewmobile.kuaiya.play|Dewmobile, Inc.|Tools|Free|Android|408004|4.565
+Photo Editor|com.iudesk.android.photo.editor|dev.macgyver|Photography|Free|Android|399926|4.273
+Facemoji Emoji Keyboard|com.simejikeyboard|Facemoji Emoji Keyboard & Keyboard Theme|Personalization|Free|Android|433786|4.676
+Blue Mail - Email & Calendar App - Mailbox|me.bluemail.mail|Blue Mail Inc.|Productivity|Free|Android|404789|4.638
+File Manager by Xiaomi|com.mi.android.globalFileexplorer|Xiaomi Inc.|Tools|Free|Android|444942|4.768
+MyASUS - Service Center|com.asus.ia.asusapp|ASUSTeK COMPUTER INC.|Business|Free|Android|388122|4.379
+Last Battleground|com.elex.lastbattlegroundsurvival|Elex|Action|Free|Android|386645|4.148
+Maze King|com.mobirix.playmaze|mobirix|Arcade|Free|Android|389164|3.854
+Hello Kitty Nail Salon|com.budgestudios.HelloKittyNailSalon|Budge Studios|Casual|Free|Android|388343|4.209
+Real Gangster Crime|com.gta.real.gangster.crime|Naxeex Studio|Action|Free|Android|455848|4.298
+Google Pay|com.google.android.apps.walletnfcrel|Google LLC|Finance|Free|Android|417472|4.306
+Sonic Jump Fever|com.sega.sonicjumpfever|SEGA|Action|Free|Android|378900|4.281
+Moto Rider GO|com.tbegames.and.best_moto_race|T-Bull|Racing|Free|Android|388858|4.338
+Fruit Slice|com.droidhen.fruit|Droidhen Casual|Action|Free|Android|375415|4.432
+Mirror Photo|com.llapps.mirrorphoto|Lolo Apps|Photography|Free|Android|373844|4.085
+Oxford Dictionary of English |com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish|MobiSystems|Books and Reference|Free|Android|378893|4.104
+DRAGON BALL LEGENDS|com.bandainamcoent.dblegends_ww|BANDAI NAMCO Entertainment Inc.|Action|Free|Android|405584|4.637
+Creative Destruction|com.titan.cd.gb|ZuoMasterDeveloper|Action|Free|Android|500239|4.391
+WIFI WPS WPA TESTER|com.tester.wpswpatester|Sangiorgi Srl|Tools|Free|Android|381531|4.329
+Zombie Hunter|com.generamobile.zhunter.gp|Genera Games|Action|Free|Android|386361|4.396
+Keyboard - Emoji, Emoticons|com.kitkatandroid.keyboard|KK Keyboard Studio|Productivity|Free|Android|362223|4.168
+BaBe - Baca Berita|id.co.babe|Mainspring|News and Magazines|Free|Android|378932|4.3
+Bank of America Mobile Banking|com.infonow.bofa|Bank of America|Finance|Free|Android|389655|4.445
+Hopeless Land|com.herogame.gplay.hopelessland|HERO Game|Action|Free|Android|463529|4.23
+MakeUp & Beauty Cam - Photo Editor, Filter, Effect|com.lyrebirdstudio.instasquare|Lyrebird Studio|Photography|Free|Android|360773|4.283
+Dragon Hills|com.rebeltwins.dragonhills|Rebel Twins|Action|Free|Android|363743|4.508
+Larva Heroes|com.mrgames.larvaheroesfree|Mr.Games|Action|Free|Android|360916|4.324
+FaceApp|io.faceapp|FaceApp Inc|Photography|Free|Android|374847|4.366
+Tic Tac Toe Glow|com.arcsys.tictactoe|Arclite Systems|Puzzle|Free|Android|371754|4.192
+Stick Fight|com.technull.stickfight|TNSoftware|Action|Free|Android|362026|4.471
+Grand Theft Auto|com.rockstargames.gtasa|Rockstar Games|Action|$6.99|Android|366615|4.352
+SHAHID|net.mbc.shahid|MBC Group|Entertainment|Free|Android|362903|4.026
+Standoff Multiplayer|com.alanapps.standoff|Axlebolt|Action|Free|Android|364307|4.395
+WWE Mayhem|com.reliancegames.wwemayhem|Reliance Big Entertainment (UK) Private Limited|Action|Free|Android|389409|4.57
+Arrow.io|com.cmcm.arrowio|Cheetah Games|Action|Free|Android|364769|4.492
+diep.io|com.miniclip.diep.io|Miniclip.com|Action|Free|Android|361673|4.138
+BHIM - MAKING INDIA CASHLESS|in.org.npci.upiapp|National Payments Corporation of India (NPCI)|Finance|Free|Android|372044|4.162
+Standoff 2|com.axlebolt.standoff2|Axlebolt|Action|Free|Android|483988|4.474
+Photo Warp|hu.tonuzaba.android|PWA STUDIO|Entertainment|Free|Android|354714|3.746
+Google Goggles|com.google.android.apps.unveil|Google LLC|Productivity|Free|Android|353710|3.935
+Ninja Revenge|com.redantz.game.ninja|DIVMOB|Action|Free|Android|355174|4.079
+Zombie Age 3|com.redantz.game.zombie3|DIVMOB|Action|Free|Android|357751|4.598
+HD Camera for Android|photo.android.hd.camera|Mobile_V5|Photography|Free|Android|354310|4.131
+Flash Alerts 2|net.megawave.flashalerts|MegaWave Software|Tools|Free|Android|354080|4.21
+Gangstar New Orleans OpenWorld|com.gameloft.android.ANMP.GloftOLHM|Gameloft|Action|Free|Android|365620|4.292
+Heroes Arena|com.ucool.heroesarena|uCool|Action|Free|Android|362389|4.163
+QR Droid|la.droid.qr|DroidLa|Productivity|Free|Android|349179|4.141
+Zombie Frontier 3|com.feelingtouch.zf3d|FT Games|Action|Free|Android|362638|4.391
+Battle Bay|com.rovio.battlebay|Rovio Entertainment Corporation|Action|Free|Android|355925|4.56
+Advanced Task Manager|mobi.infolife.taskmanager|INFOLIFE LLC|Productivity|Free|Android|348415|4.468
+Word Search|com.melimots.WordSearch|Melimots|Word|Free|Android|351714|4.234
+Rivals at War|com.hotheadgames.google.free.valorcmd|Hothead Games|Action|Free|Android|347966|4.396
+War Wings|com.tencent.warwings2|Miniclip.com|Action|Free|Android|362537|4.498
+Slacker Radio|com.slacker.radio|Slacker Inc.|Music and Audio|Free|Android|343371|4.289
+Rival Knights|com.gameloft.android.ANMP.GloftOKHM|Gameloft|Action|Free|Android|342911|4.268
+Xperia Lounge|com.sonyericsson.xhs|Sony Mobile Communications|Entertainment|Free|Android|351163|4.313
+Lock Screen & AppLock Security|com.fotoable.locker|Fotoable,Inc.|Personalization|Free|Android|340221|4.356
+QIWI Wallet|ru.mw|QIWI Bank JSC|Finance|Free|Android|360690|4.397
+Bubble Shooter|bubbleshooter.orig|Bubble Shooter|Casual|Free|Android|365346|4.308
+File Manager|com.alphainventor.filemanager|Flashlight + Clock|Productivity|Free|Android|360036|4.766
+Root Checker|com.joeykrim.rootcheck|joeykrim|Tools|Free|Android|336819|4.234
+Video Collage Maker|com.scoompa.collagemaker.video|Scoompa|Photography|Free|Android|334513|4.147
+Soul Knight|com.ChillyRoom.DungeonShooter|ChillyRoom|Action|Free|Android|386117|4.681
+Elite Killer|com.yx.sniper|CanaryDroid|Action|Free|Android|338074|4.287
+Fruit Splash|com.icegame.fruitlink|Lovely Game|Casual|Free|Android|332600|4.009
+Real Bike Racing|com.wordsmobile.RealBikeRacing|Italic Games|Racing|Free|Android|356335|4.37
+Tic Tac Toe|com.tictactoe.wintrino|Wintrino|Puzzle|Free|Android|331800|4.071
+BarbarQ|com.bbqstudio.bbqqoversea|Electronic Soul|Action|Free|Android|341921|4.328
+Wondershare PowerCam|powercam.activity|Wondershare Software (H.K.) Co., Ltd.|Photography|Free|Android|330025|4.242
+Forces of Freedom (Early Access)|com.koyokiservices.FoF|BRAVOCOMPANY Ltd|Action|Free|Android|364607|4.391
+Zombie Frontier|com.feelingtouch.gunzombie|FT Games|Action|Free|Android|328238|4.217
+Shoot Hunter-Gun Killer|com.ray3d.shootsniper|RAY3D|Action|Free|Android|337860|4.287
+BeautyCam|com.meitu.meiyancamera|Meitu, Inc.|Photography|Free|Android|333484|4.445
+Smiley Emoji Keyboard 2018 - Cute Emoticons|com.keyboard.font.theme.emoji|iHandy Ltd.|Personalization|Free|Android|362063|4.707
+Ringdroid|com.ringdroid|Ringdroid Team|Video Players|Free|Android|327217|4.369
+Music Video Maker|com.zenjoy.slideshow|Video Note LLC|Photography|Free|Android|346167|4.441
+Wallpaper Theme +HOME Launcher|jp.co.a_tm.android.launcher|+HOME by Ateam|Personalization|Free|Android|327425|4.325
+100 GB Free - Degoo Cloud Drive|com.degoo.android|Degoo Backup AB - Cloud|Productivity|Free|Android|360679|4.49
+Inshorts - 60 words News summary|com.nis.app|Inshorts|News and Magazines|Free|Android|331756|4.617
+Free Mp3 Downloads|bestSoftRocket.freeMp3Downloads|Programitas, MB|Music and Audio|Free|Android|324088|2.876
+Mountain Sniper Shooting|com.skippy.mountain.sniper.shooting|Skippy Games|Action|Free|Android|323652|3.721
+DRAGON SLAYER|com.glu.dragonslayer|Glu|Action|Free|Android|323546|4.525
+You Makeup Photo Camera|com.fotoable.makeup|Fotoable,Inc.|Photography|Free|Android|329910|4.42
+SAS|com.ninjakiwi.sasza4|ninja kiwi|Action|Free|Android|325498|4.478
+Grand Theft Auto|com.rockstargames.ifruit|Rockstar Games|Action|Free|Android|321635|3.864
+IQ Option broker|com.iqoption|IQ Option|Finance|Free|Android|330248|4.298
+Pocket Troops|com.Heyworks.PocketTroopsVK|Azur Interactive Games Limited|Action|Free|Android|329427|4.623
+Galaxy Wearable (Samsung Gear)|com.samsung.android.app.watchmanager|Samsung Electronics Co.,  Ltd.|Tools|Free|Android|352551|4.43
+PhotoFunia|com.photofunia.android|Capsule Digital|Photography|Free|Android|318055|4.34
+Kotak - 811 & Mobile Banking|com.msf.kbank.mobile|Kotak Mahindra Bank Ltd.|Finance|Free|Android|333893|4.468
+DEER HUNTER RELOADED|com.glu.deerhuntnew|Glu|Action|Free|Android|314732|4.33
+Beat the Boss 4|com.gamehivecorp.beattheboss4|Game Hive Corporation|Action|Free|Android|313996|4.407
+Phonto - Text on Photos|com.youthhr.phonto|youthhr|Photography|Free|Android|311623|4.284
+My Piano|com.bti.myPiano|Trajkovski Labs|Music and Audio|Free|Android|310149|4.117
+Fonts for FlipFont 50 #6|com.monotype.android.font.free.fifty6|Fonts Free|Personalization|Free|Android|310053|4.27
+New 2018 Keyboard|com.redraw.keyboard|Free 2018 Themes|Personalization|Free|Android|317011|4.574
+Toilet & Bathroom Rush|com.tongwei.toiletGame|Candy Mobile|Action|Free|Android|306551|3.628
+NewsDog - Viral Video, Hot Story, WhatsApp Status|com.newsdog|NewsDog Team|News and Magazines|Free|Android|311672|4.408
+Cat Simulator|com.swiftapps.catsimulator2015pro|Swift Apps LLC|Action|Free|Android|308317|4.636
+Feedly - Get Smarter|com.devhd.feedly|Feedly Team|News and Magazines|Free|Android|305947|4.517
+Any.do|com.anydo|Any.do|Productivity|Free|Android|307376|4.48
+Android Updates, Tips & Best Apps - Drippler|com.drippler.android.updates|Drippler|Productivity|Free|Android|303270|4.5
+Toy Truck Rally 3D|com.integer3d.toytruckrally|3dinteger|Racing|Free|Android|303568|3.993
+Heroes of Dragon Age|com.ea.game.dragonage_row|ELECTRONIC ARTS|Action|Free|Android|302036|4.233
+BBC News|bbc.mobile.news.ww|BBC Worldwide (Ltd)|News and Magazines|Free|Android|306531|4.356
+Club Factory Everything, Unbeaten Price|club.fromfactory|Club Factory|Shopping|Free|Android|395125|4.151
+SAS|com.ninjakiwi.sas3zombieassault|ninja kiwi|Action|Free|Android|301053|4.356
+TRANSFORMERS|com.kabam.bigrobot|Kabam Games, Inc.|Action|Free|Android|305835|4.593
+Anger Of Stick 4|com.bluegnc.AOSBTEAM|BLUE GNC Inc.|Action|Free|Android|300986|4.239
+Typany Keyboard-Translator, Animoji&Theme Keyboard|com.typany.ime|Sogou Inc.|Personalization|Free|Android|302301|4.514
+CNN Breaking US & World News|com.cnn.mobile.android.phone|CNN|News and Magazines|Free|Android|306374|4.048
+Microsoft Office Lens - PDF Scanner|com.microsoft.office.officelens|Microsoft Corporation|Productivity|Free|Android|309856|4.687
+Nova Launcher Prime|com.teslacoilsw.launcher.prime|TeslaCoil Software|Personalization|$4.99|Android|299088|4.796
+CONTRACT KILLER|com.glu.android.ck|Glu|Action|Free|Android|296048|4.448
+Best Wallpapers QHD|com.catple.wallpapers|CATPLE|Personalization|Free|Android|296177|4.368
+Photo editor - My Fake Look|br.com.blackmountain.mylook|PhotoAppWorld.com|Photography|Free|Android|295177|3.927
+Toughest Game Ever 2|com.orangenose.noone|Orangenose Studio|Action|Free|Android|293141|4.612
+Way2News - News, Short News|sun.way2sms.hyd.com|Way2online ( Formerly Way2SMS )|News and Magazines|Free|Android|294401|4.143
+Sweet Camera - Selfie Filters, Beauty Camera|com.dailyselfie.newlook.studio|iHandy Ltd.|Photography|Free|Android|355600|4.665
+Koi Free Live Wallpaper|fishnoodle.koipond_free|Kittehface Software|Personalization|Free|Android|290912|4.232
+Bubble Shooter|bubble.shooter.shooting.shoot.game|Candy Bubble Studio|Casual|Free|Android|311537|4.416
+Calculator - unit converter|com.asus.calculator|ZenUI, ASUS Computer Inc.|Productivity|Free|Android|290145|4.704
+NARUTO X BORUTO NINJA VOLTAGE|com.bandainamcoent.ninjavoltage_app|BANDAI NAMCO Entertainment Inc.|Action|Free|Android|310946|4.366
+Photo Collage - Layout Editor|com.asus.collage|ZenUI, ASUS Computer Inc.|Photography|Free|Android|288423|4.461
+Clean Cache - Optimize Support Android 6.0 & 7.0|com.bazinga.cacheclean|Bazinga!|Productivity|Free|Android|289028|4.467
+Cloud Print|com.google.android.apps.cloudprint|Google LLC|Productivity|Free|Android|296173|4.103
+LightX Photo Editor & Photo Effects|com.lightx|Andor Communications Pvt Ltd|Photography|Free|Android|306633|4.648
+Sniper Shoot War 3D|com.wawoo.snipershootwar|WAWOO Studio|Action|Free|Android|285945|4.004
+Point Blank|com.nexon.pbs|NEXON Company|Action|Free|Android|299236|4.273
+Blocky Cars - Online Shooting Game|com.blockycars.online|Fahrenheit Lab|Action|Free|Android|288075|4.271
+Assistant for Android - 1MB|com.advancedprocessmanager|AA Mobile|Productivity|Free|Android|285044|4.38
+Samsung Print Service Plugin|com.sec.app.samsungprintservice|HP Inc.|Productivity|Free|Android|297954|4.191
+Fart sound pranks|com.amdroid.pedo.gas.flatulencia|AMDROID|Casual|Free|Android|284614|3.789
+My Verizon|com.vzw.hss.myverizon|Verizon - VZ|Tools|Free|Android|302064|3.911
+Wallpapers HD, 4K Backgrounds|com.wallpaperscraft.wallpaper|WallpapersCraft WallCraft|Personalization|Free|Android|287776|4.742
+Photo Collage Editor|com.meihillman.photocollage|MeiHillMan|Photography|Free|Android|291848|4.642
+Zombie Frontier |com.feelingtouch.sniperzombie|FT Games|Action|Free|Android|281888|4.215
+Power Rangers|com.nway.powerrangerslegacywars|nWay Inc.|Action|Free|Android|288438|4.256
+Pencil Sketch|com.dumplingsandwich.pencilsketch|Dumpling Sandwich|Photography|Free|Android|282491|3.939
+ORG 2019|com.sofeh.android.musicstudio3|Sofeh Sunrise|Music and Audio|Free|Android|295412|4.405
+Background Eraser|com.handycloset.android.eraser|handyCloset Inc.|Photography|Free|Android|292999|4.479
+APUS Browser - Fast download & Private & Secure|com.apusapps.browser|APUS Browser Dev Team|Communication|Free|Android|281182|4.346
+BAND - Organize your groups|com.nhn.android.band|NAVER Corp.|Social|Free|Android|283949|4.094
+Racing in Car 2|com.ffgames.racingincar2|Fast Free Games|Racing|Free|Android|297786|4.246
+Dandelion Live Wallpaper|com.androidwasabi.livewallpaper.dandelion|Wasabi|Personalization|Free|Android|270635|4.298
+Implosion - Never Lose Hope|com.rayark.implosion|Rayark International Limited|Action|Free|Android|271251|4.399
+TERMINATOR GENISYS|com.glu.t5|Glu|Action|Free|Android|271395|4.211
+Santander Way|br.com.santander.way|Banco Santander (Brasil) S.A.|Finance|Free|Android|319608|4.539
+G Cloud Backup|com.genie9.gcloudbackup|Genie9 LTD|Productivity|Free|Android|272583|4.583
+Apex Launcher - Customize, Secure, and Efficient|com.anddoes.launcher|Android Does|Personalization|Free|Android|272791|4.261
+Plane Simulator 3D|com.wordsmobile.planesimulator|TerranDroid|Action|Free|Android|270129|4.12
+Rope Hero|com.mgc.rope.hero|Naxeex LLC|Action|Free|Android|278198|4.292
+PIXEL'S UNKNOWN BATTLE GROUND|com.azurgames.BattleGroundRoyale|FPS Shooter|Action|Free|Android|294624|4.262
+Sniper Arena|com.nordcurrent.sniperarena|Nordcurrent|Action|Free|Android|289983|4.361
+Overkill 3|com.craneballs.overkill3|Craneballs|Action|Free|Android|265506|4.27
+Wells Fargo Mobile|com.wf.wellsfargomobile|Wells Fargo Mobile|Finance|Free|Android|299893|4.401
+Samsung Music|com.sec.android.app.music|Samsung Electronics Co.,  Ltd.|Music and Audio|Free|Android|279376|4.189
+Lumyer - Augmented Reality|com.lumyer.app|Lumyer Inc.|Photography|Free|Android|260962|4.472
+To Do List|com.splendapps.splendo|Splend Apps|Productivity|Free|Android|263629|4.733
+Zombie Highway 2|com.auxbrain.zh2|Auxbrain Inc|Action|Free|Android|258944|4.371
+Waterfall Live Wallpaper|com.WaterfallLiveWallpaperHDHQ|Creative Factory Wallpapers|Personalization|Free|Android|258211|4.105
+Pocket|com.ideashower.readitlater.pro|Read It Later|News and Magazines|Free|Android|257744|4.531
+Miami crime simulator|com.mgc.miami.crime.simulator|Naxeex LLC|Action|Free|Android|258263|3.972
+FancyKey Keyboard - Cool Fonts, Emoji, GIF,Sticker|com.pinssible.fancykey|FancyKey Keyboard Labs|Personalization|Free|Android|265818|4.593
+Photo Editor Pro - Effects|com.creapp.photoeditor|CRE APP.COM|Photography|Free|Android|255990|4.103
+YouCam Fun - Snap Live Selfie Filters & Share Pics|com.perfectcorp.ycf|Perfect Corp.|Photography|Free|Android|258694|4.628
+Smashy City|com.aceviral.smashycity|Ace Viral|Action|Free|Android|254819|4.552
+PicSay - Photo Editor|com.shinycore.picsayfree|Shinycore|Photography|Free|Android|255915|4.256
+Flickr|com.yahoo.mobile.client.android.flickr|Yahoo|Photography|Free|Android|254450|4.293
+Love Collage - Photo Editor|com.etoolkit.lovecollage|eToolkit Inc|Photography|Free|Android|254809|4.305
+Buzz Launcher-Smart&Free Theme|com.buzzpia.aqua.launcher|Buzz Launcher Team|Personalization|Free|Android|253527|4.359
+Album|com.sonyericsson.album|Sony Mobile Communications|Photography|Free|Android|256286|4.159
+Fleksy - Emoji & GIF keyboard app|com.syntellia.fleksy.keyboard|Fleksy|Productivity|Free|Android|253223|4.445
+The Guardian|com.guardian|Guardian News & Media Ltd|News and Magazines|Free|Android|257300|4.691
+Into the Dead 2|com.pikpok.dr2.play|PIKPOK|Action|Free|Android|265058|4.544
+Big Hunter|com.kakarod.bighunter|KAKAROD INTERACTIVE|Action|Free|Android|254322|4.35
+Music|com.sonyericsson.music|Sony Mobile Communications|Music and Audio|Free|Android|253462|3.999
+Beauty Face Plus |com.baiwang.instaface|riki|Photography|Free|Android|250322|4.085
+Camera MX - Free Photo & Video Camera|com.magix.camera_mx|MAGIX|Photography|Free|Android|253373|4.323
+Alien Shooter Free - Isometric Alien Invasion|com.sigmateam.alienshootermobile.free|Sigma Team|Action|Free|Android|254097|4.631
+Google Slides|com.google.android.apps.docs.editors.slides|Google LLC|Productivity|Free|Android|260289|4.218
+Music Player|com.jrtstudio.music|JRT Studio Music Apps|Music and Audio|Free|Android|248561|3.961
+Photo Collage Maker|com.lyrebirdstudio.photocollageeditor|Lyrebird Studio|Photography|Free|Android|249205|4.438
+Dead Effect|com.bulkypix.deadeffect|App Holdings|Action|Free|Android|248020|4.272
+War Heroes|com.fungames.boomforce|Fun Games For Free|Action|Free|Android|253678|4.545
+San Andreas|com.vg.sanandreasrealgangsters3d|VascoGames|Action|Free|Android|245162|3.75
+Dog Licker Live Wallpaper FREE|it.gironacci.dog.free|IncrediByte|Personalization|Free|Android|244856|4.58
+Camera for Android|photo.camera.hdcameras|App Camera, Inc.|Photography|Free|Android|245954|4.154
+SmartNews|jp.gocro.smartnews.android|SmartNews, Inc.|News and Magazines|Free|Android|259300|4.218
+iFont(Expert of Fonts)|com.kapp.ifont|diyun|Personalization|Free|Android|243753|3.986
+Snipers vs Thieves|se.foglo.svt|PlayStack|Action|Free|Android|258896|4.542
+DiskDigger photo recovery|com.defianttech.diskdigger|Defiant Technologies, LLC|Tools|Free|Android|251731|4.192
+GunCrafter|com.naquatic.guncraft|Naquatic LLC|Action|Free|Android|239620|4.232
+Anger of Stick 2|com.miniclip.angerofstick2|Miniclip.com|Action|Free|Android|238847|4.276
+SWORD ART ONLINE;Memory Defrag|com.bandainamcoent.saomdas|BANDAI NAMCO Entertainment Inc.|Action|Free|Android|243700|4.67
+Poweramp Full Version Unlocker|com.maxmpz.audioplayer.unlock|Max MP|Music and Audio|$3.99|Android|239857|4.522
+Wallpapers & Backgrounds for Me|com.apalon.wallpapers|Apalon Apps|Personalization|Free|Android|237161|4.541
+BEYBLADE BURST app|com.hasbro.beybladesenterprise|Hasbro Inc.|Action|Free|Android|253850|4.532
+Rope'n'Fly 4|com.djinnworks.RNF4|Djinnworks GmbH|Action|Free|Android|235330|4.054
+Samsung Members|com.samsung.android.voc|Samsung Electronics Co.,  Ltd.|Tools|Free|Android|273555|4.621
+Stickman Legends|com.zitga.ninja.stickman.legends|ZITGA PTE. LTD.|Action|Free|Android|251704|4.608
+Experiment Z - Zombie|com.cyclopsgames.experimentz|App Holdings|Action|Free|Android|237245|3.971
+A+ Gallery - Photos & Videos|com.atomicadd.fotos|AtomicAdd Team|Photography|Free|Android|241894|4.481
+The Room|com.FireproofStudios.TheRoom|Fireproof Games|Puzzle|$0.99|Android|234605|4.774
+Super Penguins|com.supersolid.penguin|Supersolid|Action|Free|Android|235259|4.323
+Chrome Beta|com.chrome.beta|Google LLC|Productivity|Free|Android|236015|4.356
+Modern Combat 4|com.gameloft.android.ANMP.GloftM4HM|Gameloft|Action|$6.99|Android|232553|4.437
+AndroMoney ( Expense Track )|com.kpmoney.android|AndroMoney|Finance|Free|Android|233912|4.723
+Battlelands Royale|com.futureplay.battleground|Futureplay|Action|Free|Android|346310|4.446
+Pitu|com.tencent.ttpic|Tencent Technology (Shenzhen) Company Ltd.|Photography|Free|Android|236958|4.373
+SNIPER X WITH JASON STATHAM|com.glu.sniperx|Glu|Action|Free|Android|232243|4.396
+Flipboard Briefing|flipboard.boxer.app|Flipboard|News and Magazines|Free|Android|267359|3.814
+Color Phone Flash - Call Screen Theme, LED|com.colorphone.smooth.dialer|Finger Studios|Personalization|Free|Android|245333|4.732
+Candy Camera & Collage Photo Editor, Color Splash|com.lyrebirdstudio.colorme|Lyrebird Studio|Photography|Free|Android|231172|4.122
+Camera360 Lite - Selfie Camera|camera360.lite.beauty.selfie.camera|PinGuo Inc.|Photography|Free|Android|235960|4.374
+Notepad & To do list|com.workpail.inkpad.notepad.notes|Workpail|Productivity|Free|Android|228407|4.335
+Power Security-Anti Virus, Phone Cleaner|com.lm.powersecurity|LIONMOBI|Tools|Free|Android|233865|4.491
+Sketch - Draw & Paint|com.sonymobile.sketch|Sony Mobile Communications|Art & Design|Free|Android|234790|4.486
+Microsoft Translator|com.microsoft.translator|Microsoft Corporation|Productivity|Free|Android|244048|4.606
+Tinkoff|com.idamob.tinkoff.android|Tinkoff Bank|Finance|Free|Android|263532|4.837
+trivago|com.trivago|trivago|Travel and Local|Free|Android|227037|4.203
+Dumpster|com.baloota.dumpster|Baloota|Productivity|Free|Android|230308|4.157
+Terraria.|com.and.games505.TerrariaPaid|505 Games Srl|Adventure|$4.99|Android|226016|4.26
+Photo Editor - Beauty Camera & Photo Filters|com.pic.photoeditor|Pic Tools Group (Photo Editor& Photo Grid&Collage)|Photography|Free|Android|237425|4.175
+Magic Rampage|com.asanteegames.magicrampage|Asantee|Game Role Playing|Free|Android|227954|4.636
+Hide Online|com.hitrock.hideonline|HitRock Games|Action|Free|Android|247407|4.523
+Tanktastic 3D tanks|ghor.games.tanktastic|G.H.O.R. Corporation|Action|Free|Android|222490|4.287
+Enemy Strike|com.KillerBeanStudios.EnemyStrike|Killer Bean Studios|Action|Free|Android|221988|4.118
+Motorola Camera|com.motorola.camera|Motorola Mobility LLC.|Photography|Free|Android|222718|3.578
+CrossFire|com.gs5.cfm|VNG Game Publishing|Action|Free|Android|232215|4.362
+CKZ ORIGINS|com.glu.ckzombies2|Glu|Action|Free|Android|220778|4.501
+PUBG MOBILE|com.pubg.krmobile|PUBG CORPORATION|Action|Free|Android|268215|4.328
+Zombie Frontier 2|com.feelingtouch.zombiex|FT Games|Action|Free|Android|220569|4.226
+iTranslate Translator & Dictionary|at.nk.tools.iTranslate|iTranslate|Productivity|Free|Android|233319|4.266
+Battle of Warships|com.CubeSoftware.BattleOfWarships|Cube Software|Action|Free|Android|223087|4.394
+Smash Champs|com.kiloo.smashchamps|Kiloo|Action|Free|Android|219145|4.204
+Photo Editor & Beauty Makeup Camera & Face Filters|com.lyrebirdstudio.nocrop|Lyrebird Studio|Photography|Free|Android|218909|4.312
+Miraculous Ladybug & Cat Noir - The Official Game|com.crazylabs.lady.bug|Crazy Labs by TabTale|Action|Free|Android|241060|4.543
+Call Recorder - Automatic Call Recorder - callX|com.smsrobot.callrecorder|SMSROBOT LTD (Auto Call Recorder, Period Tracker)|Productivity|Free|Android|229555|4.393
+EyeEm - Camera & Photo Filter|com.baseapp.eyeem|EyeEm Mobile|Photography|Free|Android|216577|4.25
+BCA mobile|com.bca|PT Bank Central Asia Tbk.|Finance|Free|Android|223344|4.039
+PlusMe Camera - Previously BeautyPlus Me|com.meitu.beautyplusme|MEITU|Photography|Free|Android|216495|4.508
+Runtastic PRO Running, Fitness|com.runtastic.android.pro2|Runtastic|Health and fitness|$4.99|Android|215227|4.482
+HDFC Bank MobileBanking|com.snapwork.hdfc|HDFC Bank|Finance|Free|Android|220110|4.132
+Crime City (Action RPG)|com.funzio.crimecity|Funzio Games, Inc|Action|Free|Android|212813|4.232
+My Photo Keyboard|com.mykeyboard.myphotokeyboard|Abbott Cullen|Photography|Free|Android|213269|4.086
+Easy Voice Recorder|com.coffeebeanventures.easyvoicerecorder|Digipom|Productivity|Free|Android|220733|4.383
+VMate -Your Best Video Tube Mate& Video Downloader|com.uc.vmate|VMate App Team|Video Players|Free|Android|238088|4.216
+MilkChoco - Online FPS|com.gameparadiso.milkchoco|GameParadiso|Action|Free|Android|232495|4.312
+Photo Frames|frames.techtouch.hordingframe|Studioapps|Photography|Free|Android|211088|4.035
+Kredit Pintar - Pinjaman Uang Tunai|com.kreditpintar|KREDIT PINTAR|Finance|Free|Android|283391|4.597
+Keyboard Electric Color|com.jb.gokeyboard.theme.BestThemes.electriccolor|Best Themes|Personalization|Free|Android|210701|4.155
+piZap Photo Editor & Collage|com.digitalpalette.pizap|piZap|Photography|Free|Android|210699|4.246
+Narendra Modi|com.narendramodiapp|NarendraModi.in|News and Magazines|Free|Android|214268|4.591
+Tattoo my Photo 2.0|com.mobile.bizo.tattoo.two|Bizo Mobile|Photography|Free|Android|210178|4.135
+LOCX Applock Lock Apps & Photo|com.cyou.privacysecurity|thememaker.studio|Productivity|Free|Android|210487|4.477
+Forward Assault|com.blayzegames.newfps|Blayze Games, L.L.C.|Action|Free|Android|223378|4.406
+Ultimate Robot Fighting|com.reliancegames.urf|Reliance Big Entertainment (UK) Private Limited|Action|Free|Android|209286|4.381
+Adobe Photoshop Lightroom CC|com.adobe.lrmobile|Adobe|Photography|Free|Android|223954|4.29
+Break the Prison|com.fxb.prison|Candy Mobile|Action|Free|Android|209546|3.987
+CONTRACT KILLER|com.glu.android.zombsniper|Glu|Action|Free|Android|206636|4.442
+Flashlight|flashlight.led.clock|Flashlight + Clock|Productivity|Free|Android|207180|4.385
+Drone Shadow Strike|com.reliancegames.drones|Reliance Big Entertainment (UK) Private Limited|Action|Free|Android|208477|4.201
+TrueMoney Wallet|th.co.truemoney.wallet|True Money Co. Ltd.|Finance|Free|Android|219010|4.363
+My Galaxy|com.mygalaxy|Samsung India Electronics Ltd.|Lifestyle|Free|Android|228147|4.355
+Backgrounds (HD Wallpapers)|hd.backgrounds.wallpapers.theme|HD Wallpapers Developer|Personalization|Free|Android|205806|4.666
+GUN BROS MULTIPLAYER|com.glu.android.gunbros_free|Glu|Action|Free|Android|203853|4.39
+Monument Valley|com.ustwo.monumentvalley|ustwo games|Puzzle|$3.99|Android|204616|4.765
+Newsroom|com.yahoo.mobile.client.android.yahoo|Yahoo|News and Magazines|Free|Android|203518|4.206
+QuickSave for Instagram|dstudio.tool.instasave|DStudio|Photography|Free|Android|205744|4.441
+Gun War|com.atomgame.gunwar|Shooter Studio|Action|Free|Android|215120|4.591
+Break Bricks|com.tongwei.blockbreaker|CanaryDroid|Action|Free|Android|201131|3.978
+Metal Soldiers|com.playappking.ametalsoldiers|Play365|Action|Free|Android|202215|4.007
+Power Rangers Dino Charge|com.storytoys.powerrangers.dinocharge.free.android.googleplay|StoryToys|Action|Free|Android|203081|4.315
+Exploration Lite Craft|com.mousemobile.explorationcraft|CanaryDroid|Action|Free|Android|207974|4.238
+Scare Your Friends - JOKE!|scare.your.friends.prank.maze.halloween|bubble quiz games|Action|Free|Android|199031|3.995
+Jorte Calendar & Organizer|jp.co.johospace.jorte|Jorte Inc.|Productivity|Free|Android|198930|4.275
+DeathRun Portable|com.rexetstudio.deathrunportable|Rexet Studio|Action|Free|Android|202184|4.282
+Cloud Mail.Ru|ru.mail.cloud|Mail.Ru Group|Productivity|Free|Android|211731|4.603
+Xperia Transfer Mobile|com.sonymobile.xperiatransfermobile|Sony Mobile Communications|Personalization|Free|Android|209314|4.601
+Mutant Fighting Cup 2|air.com.aceviral.mutantfightingcup2|Ace Viral|Action|Free|Android|199664|4.572
+Photo Collage Maker|com.zentertain.photocollage2|Video Note LLC|Photography|Free|Android|197289|4.235
+The Room Two|com.FireproofStudios.TheRoom2|Fireproof Games|Puzzle|$1.99|Android|198144|4.87
+DEATH DOME|com.glu.ddome|Griptonite Games Inc|Action|Free|Android|196265|4.467
+Die in 100 Ways|com.zlc.DieWays2|CanaryDroid|Action|Free|Android|194818|4.212
+Square Fit Size -  Collage Maker Photo Editor|com.baiwang.instasquare|Photo Editor Perfect Corp.|Photography|Free|Android|195518|4.52
+New Designs |com.rashadandhamid.designs1|Smart Applications YE|Photography|Free|Android|193081|4.279
+detikcom - Berita Terbaru & Terlengkap|org.detikcom.rss|PT. Trans Digital Media|News and Magazines|Free|Android|196359|4.143
+Barclays Mobile Banking|com.barclays.android.barclaysmobilebanking|Barclays Services Limited|Finance|Free|Android|202699|4.459
+One Finger Death Punch|com.mobirix.onepunch|mobirix|Action|Free|Android|192903|4.094
+Garanti Mobile Banking|com.garanti.cepsubesi|T. Garanti Bankasi A.S.|Finance|Free|Android|194949|4.367
+Theme Maker for KakaoTalk|net.headnum.kream.kakaothememaker|mave|Personalization|Free|Android|191417|4.534
+Bloons TD 5|com.ninjakiwi.bloonstd5|ninja kiwi|Strategy|$2.99|Android|191631|4.575
+Prison Break|com.amphibius.prison_break_free|Amphibious Games|Action|Free|Android|190781|3.914
+Smash the Office - Stress Fix!|com.tuokio.smashtheoffice|Tuokio Oy|Action|Free|Android|189071|3.87
+Where's My Water?|com.disney.WMW|Disney|Puzzle|$1.99|Android|189278|4.683
+Mussoumano Game|com.MaqnaInteractive.MussoumanoGame|Maqna Interactive Ltda - Me|Action|Free|Android|189247|4.566
+Bling Launcher - Live Wallpapers & Themes|com.wallpaper.live.launcher|Sunspot Widgets.|Personalization|Free|Android|285456|4.585
+Snake.io|com.amelosinteractive.snake|Amelos Interactive|Action|Free|Android|188400|4.361
+BIG TIME GANGSTA|com.glu.android.brawler|Glu|Action|Free|Android|188476|4.536
+Killer Bean Unleashed|com.KillerBeanStudios.KillerBeanUnleashed|Killer Bean Studios|Action|Free|Android|190944|4.232
+Share Music & Transfer Files - Mi Drop|com.xiaomi.midrop|Xiaomi Inc.|Tools|Free|Android|229259|4.809
+Verizon Cloud|com.vcast.mediamanager|Verizon - VZ|Productivity|Free|Android|190875|4.303
+SBI Card|com.ge.capital.konysbiapp|SBI Cards & Payment Services Pvt. Ltd.|Finance|Free|Android|239593|4.6
+Identity V|com.netease.idv.googleplay|NetEase Games|Action|Free|Android|250323|4.224
+Gallery|com.flayvr.flayvr|Flayvr Media|Photography|Free|Android|189585|4.338
+DOG LICKS SCREEN LWP FREE|com.gironacci.dog.licks.free|IncrediByte|Personalization|Free|Android|186613|4.598
+RealCalc Scientific Calculator|uk.co.nickfines.RealCalc|Quartic Software|Productivity|Free|Android|186263|4.468
+Baca- Berita Terbaru, Informasi, Gosip dan Politik|com.jakarta.baca|News in Palm (NIP)|News and Magazines|Free|Android|189136|4.095
+World Newspapers|com.world.newspapers|Bazimo|News and Magazines|Free|Android|186114|4.394
+Selfie Camera - Beauty Camera & Photo Editor|com.pic.mycamera|Pic Tools Group (Photo Editor& Photo Grid&Collage)|Photography|Free|Android|208814|4.348
+Iron Blade|com.gameloft.android.ANMP.GloftHFHM|Gameloft|Action|Free|Android|202643|4.379
+Gun Shot Fire War|com.idoing.linefirefree|LuGame|Action|Free|Android|195152|4.233
+Recharge, Pay Bills & Shop|com.enstage.wibmo.hdfc|HDFC Bank Ltd.|Finance|Free|Android|201324|3.889
+Smart Connect|com.sonyericsson.extras.liveware|Sony Mobile Communications|Tools|Free|Android|185019|4.154
+ADW Launcher 2|org.adw.launcher|AnderWeb|Personalization|Free|Android|181818|4.318
+Pixlr-o-matic|pixlr.OMatic|123RF|Photography|Free|Android|180697|4.498
+Knock Down|com.innovativegames.knockdown|Innovative games|Arcade|Free|Android|181252|3.987
+Change Hair And Eye Color|com.csmart.hairandeyecolorchanger|Csmartworld|Photography|Free|Android|179527|3.696
+Topbuzz|com.ss.android.article.master|TopBuzz|News and Magazines|Free|Android|185745|4.693
+Zombie Gunship Free|com.limbic.ac130zero|Limbic|Action|Free|Android|178210|4.234
+IKO|pl.pkobp.iko|PKO Bank Polski SA|Finance|Free|Android|194671|4.705
+ALL-IN-ONE PACKAGE TRACKING|yqtrack.app|17TRACK|Productivity|Free|Android|188638|4.75
+Pushbullet - SMS on PC|com.pushbullet.android|Pushbullet|Productivity|Free|Android|177934|4.543
+ME Launcher - Theme & 3D Wallpaper, Fast|com.honeycomb.launcher|ONE App Essentials.|Personalization|Free|Android|235854|4.649
+Prop Hunt Portable|com.rexetstudio.prophuntportable|Rexet Studio|Action|Free|Android|178210|4.297
+Update for Old Versions|cn.wps.moffice_i18n|Kingsoft Office Software Corporation Limited|Productivity|Free|Android|177329|4.248
+RupiahPlus - Pinjaman Uang Dana|com.yinshan.program.banda|PT. Digital Synergy Technology|Finance|Free|Android|208839|4.569
+Tattoo - Tattoo My Photo Editor 3.0|com.tntstudio.tattoo.tattooonphoto|DRAGON, Inc.|Photography|Free|Android|174794|4.276
+Face Filter, Selfie Editor - Sweet Camera|com.camera.beautycam|ONE App Team|Photography|Free|Android|225094|4.671
+Grand Battle Royale|com.onetongames.kingofthehill|GameSpire Ltd.|Action|Free|Android|180202|4.3
+Wild Tanks Online|com.wildec.tank.client|ACTION GAMES STUDIO LLC|Action|Free|Android|174085|4.387
+The Pirate|com.HomeNetGames.Pirates|Home Net Games|Action|Free|Android|175102|4.517
+The Survival Hunter Games 2|com.freegamesstudio.thesurvivalhuntergames2|Aeria Canada|Action|Free|Android|175573|4.206
+Camera Effects|com.ColossalStudio.CameraEffects|Colossal Entertainment|Photography|Free|Android|173022|3.703
+Photo Frames - Unlimited|com.smartworld.photoframe|Csmartworld|Photography|Free|Android|171866|4.101
+Clock|com.google.android.deskclock|Google LLC|Tools|Free|Android|180511|4.122
+Covers by Wattpad|wp.wattpad.covers|Wattpad.com|Photography|Free|Android|174021|4.516
+CrossFire|com.tencent.tmgp.cfmnac|Tencent Games|Action|Free|Android|191261|4.344
+Universal TV Remote Control|codematics.universal.tv.remote.control|CodeMatics Media Solutions|House & Home|Free|Android|173037|3.503
+Flashlight|com.peacock.flashlight|Lighthouse, Inc.|Tools|Free|Android|179349|4.52
+Eye Color Changer|com.vysionapps.niceeyesfree|VysionApps|Photography|Free|Android|171046|4.133
+Toolwiz Photos - Pro Editor|com.btows.photo|Toolwiz.com|Photography|Free|Android|172532|4.666
+JioMoney Wallet (Beta)|com.corpay.mwallet|Reliance Payment Solutions Ltd.|Finance|Free|Android|173165|3.968
+CaixaBank|es.lacaixa.mobile.android.newwapicon|CaixaBank|Finance|Free|Android|211453|4.366
+Color Touch Effects|com.appspot.swisscodemonkeys.paintfx|AppTornado|Photography|Free|Android|167752|3.83
+AfterFocus|com.motionone.afterfocus|MotionOne|Photography|Free|Android|169011|4.246
+Free Antivirus 2019 - Scan & Remove Virus, Cleaner|com.rocket.tools.clean.antivirus.master|Hyper Speed|Productivity|Free|Android|304895|4.774
+Screen Lock - HD Wallpaper & Funny Lock Screen App|galaxy.iphone.hd.wallpaper.live.screen.lock|LIONMOBI Style|Personalization|Free|Android|201775|4.71
+Stocks, Forex, Finance, Markets|com.fusionmedia.investing|INVESTING.com|Finance|Free|Android|175663|4.579
+BLEACH Brave Souls|com.klab.bleach|KLab Global Pte. Ltd.|Action|Free|Android|172092|4.296
+Metal Soldiers 2|com.playappking.ametalsoldiers2|Play365|Action|Free|Android|177782|4.364
+Gun Club 2|com.nextgenreality.gunclub|The Binary Mill|Action|Free|Android|166647|4.323
+Aquarium Free Live Wallpaper|fishnoodle.aquarium_free|Kittehface Software|Personalization|Free|Android|166031|4.036
+Mobills - Budget App|br.com.gerenciadorfinanceiro.controller|Mobills Apps|Finance|Free|Android|167150|4.558
+Free Slideshow Maker & Video Editor|com.movisoft.photostory|VIDEO EDITOR  PROFESSIONAL STUDIO|Photography|Free|Android|166732|4.209
+GEICO Mobile|com.geico.mobile|GEICO Insurance|Finance|Free|Android|174090|4.729
+Ginger Keyboard - Emoji, GIFs, Themes & Games|com.gingersoftware.android.keyboard|GingerSoftware Inc.|Productivity|Free|Android|163380|4.369
+Christmas Live Wallpaper Free|com.jetblacksoftware.xmastreewallpaperfree|Jetblack Software|Personalization|Free|Android|162296|4.448
+The Hindu|com.mobstac.thehindu|Kasturi and Sons Ltd.|News and Magazines|Free|Android|167679|4.34
+Fonts for Galaxy FlipFont Free|com.monotype.android.font.free.pencil|Fonts Free|Personalization|Free|Android|161103|4.181
+Privat24|ua.privatbank.ap24|Privatbank|Finance|Free|Android|194381|4.214
+World of Warships Blitz|net.wargaming.wows.blitz|Wargaming Group|Action|Free|Android|177416|4.484
+Emoji Keyboard 7 - Cute Sticker, GIF, Emoticons|com.crazygame.inputmethod.keyboard7|Barley WorkShop|Personalization|Free|Android|160345|4.172
+Send Anywhere (File Transfer)|com.estmob.android.sendanywhere|Estmob Inc.|Productivity|Free|Android|163226|4.687
+Samsung Link (Terminated)|com.sec.pcw|Samsung Electronics Co.,  Ltd.|Productivity|Free|Android|160117|3.995
+GoPro (formerly Capture)|com.gopro.smarty|GoPro|Photography|Free|Android|160424|3.933
+Cops N Robbers - FPS Mini Game|com.joydo.minestrikenew|Riovox|Action|Free|Android|160567|4.225
+Todoist|com.todoist|Doist|Productivity|Free|Android|158654|4.477
+Asteroids 3D live wallpaper|com.SkyDivers.asteroids3d|SkyDivers|Personalization|Free|Android|157683|4.128
+Emoji Art - Cute & Puzzle|com.jb.gokeyboard.plugin.facecombination.funny|GOMO Dev Team|Personalization|Free|Android|157485|4.158
+Face Swap|com.fotoable.faceswap.c403|Weather Radar Forecast|Photography|Free|Android|158092|4.336
+PIP Art Photo Editor|com.lyrebirdstudio.pipcamera|Lyrebird Studio|Photography|Free|Android|158190|4.368
+Bloody Harry|air.com.FDGEntertainment.BloodyHarry|FDG Entertainment GmbH & Co.KG|Action|Free|Android|157475|4.572
+ClevCalc - Calculator|com.dencreak.dlcalculator|Cleveni Inc.|Productivity|Free|Android|174224|4.623
+Miami Crime Vice Town|com.mgc.Miami.ViceTown|Naxeex LLC|Action|Free|Android|158223|4.109
+Anger of Stick 3|com.miniclip.angerofstick3|Miniclip.com|Action|Free|Android|156887|4.181
+Fake Call - Fake Caller ID|com.popularapp.fakecall|Alpha App Team|Productivity|Free|Android|156622|4.34
+TSF Launcher 3D Shell|com.tsf.shell|Launcher 3D Pro|Personalization|Free|Android|157513|4.456
+Dead Effect 2|com.badflyinteractive.deadeffect2|App Holdings|Action|Free|Android|158101|4.282
+Aliens Drive Me Crazy|com.rebeltwins.aliensdrivemecrazy|Rebel Twins|Action|Free|Android|156826|4.23
+Stylish Fonts|com.monotype.android.font.simprosys.stylishfonts|Simprosys|Personalization|Free|Android|159486|3.801
+GO Keyboard Pro - Emoji, GIF, Cute, Swipe Faster|com.jb.gokeyboardpro|GOMO Apps|Personalization|Free|Android|158677|4.526
+Jurassic Survival|jurassic.survival.craft.z|Mishka Production|Action|Free|Android|164144|4.352
+Wormax.io|net.elyland.wormaxio|Elyland|Action|Free|Android|159849|4.445
+YP - The Real Yellow Pages|com.yellowpages.android.ypmobile|Yellowpages.com LLC|Travel and Local|Free|Android|154001|4.438
+DSLR Camera Blur Background , Bokeh Effects Photo|com.bluefishapp.blureffect|Solution Cat Ltd|Photography|Free|Android|160187|4.236
+American Keyboard 2018|com.jb.gokeyboard.theme.twamericankeyboard|Launcher 2018|Personalization|Free|Android|153189|4.243
+Defender|com.droidhen.defender|DroidHen|Action|Free|Android|152794|4.579
+Easy Uninstaller App Uninstall|mobi.infolife.uninstaller|INFOLIFE LLC|Productivity|Free|Android|154100|4.479
+Fonts for FlipFont 50 Written|com.monotype.android.font.free.fifty.written|Fonts Free|Personalization|Free|Android|153304|4.156
+French's World|com.frenchgames.frenchsworld|DL Pro Composer|Action|Free|Android|151899|3.803
+Sweet Snap - live filter, Selfie photo edit|com.ufotosoft.justshot|Ufoto|Photography|Free|Android|182748|4.548
+SpeedVPN Free VPN Proxy|us.gospeed.speedvpn|GoSpeed Software|Productivity|Free|Android|153807|4.325
+Mars|com.pomelogames.MarsGame|Pomelo Games|Action|Free|Android|154149|4.677
+Commando Adventure Shooting|com.babloo.commando.adventure.shooting|Tulip Apps|Action|Free|Android|151521|3.884
+Zombie Gunship Survival|com.flaregames.zgs|Flaregames|Action|Free|Android|155581|4.639
+Rival Kingdoms|com.spaceapegames.rivalkingdoms|Space Ape Games|Action|Free|Android|150571|4.491
+ANT Radio Service|com.dsi.ant.service.socket|ANT+|Communication|Free|Android|154668|3.495
+DOG SCREEN CLEANER LWP FREE|it.gironacci.dog.screen.free|IncrediByte|Personalization|Free|Android|149928|4.564
+Money View Money Manager & Expense Manager|com.whizdm.moneyview|WhizDM|Finance|Free|Android|151991|4.347
+Samsung Smart Switch Mobile|com.sec.android.easyMover|Samsung Electronics Co.,  Ltd.|Tools|Free|Android|153088|4.327
+Xenowerk|com.pixelbite.mutant|Pixelbite|Action|Free|Android|150535|4.658
+Mercado Pago|com.mercadopago.wallet|Mercado Libre|Finance|Free|Android|162560|4.313
+Occupation|com.the3daction.Occ|the3daction.com|Action|Free|Android|148812|4.025
+Cut Paste Photos|com.km.cutpaste.util|Dexati|Photography|Free|Android|149608|3.772
+Horror Hospital 2|com.heisengame.hospitaltwo|Heisen Games|Action|Free|Android|150663|4.085
+Armored Aces - 3D Tank War Online|com.blitzkriegmmo.game|i6 Games|Action|Free|Android|148384|4.305
+KlipMix - Free Video Editor|com.movisoft.klips|VIDEO EDITOR  PROFESSIONAL STUDIO|Photography|Free|Android|148096|4.176
+File Explorer Root Browser|com.jrummy.root.browserfree|JRummy Apps|Productivity|Free|Android|147138|4.046
+ZombieTown Minecraft Wallpaper|com.sensei.village_free|Otter Studios|Personalization|Free|Android|147530|3.441
+Mitosis|air.com.freakinware.mitosis|Freakinware Studios Limited|Action|Free|Android|147232|4.375
+Cops Vs Robbers|com.freegamesstudio.copsvsrobbersjailbreak|Aeria Canada|Action|Free|Android|148563|3.978
+Counter Terrorist Attack|com.gha.counter.terrorist.attack|Jaci Technology|Action|Free|Android|146256|3.932
+AutoCAD - DWG Viewer & Editor|com.autodesk.autocadws|Autodesk Inc.|Productivity|Free|Android|146935|4.191
+Kredivo - Installment Without Credit Card and Loan|com.finaccel.android|FinAccel Pte Ltd|Finance|Free|Android|166244|4.482
+Meu Alelo|air.br.com.alelo.mobile.android|Alelo|Finance|Free|Android|149252|3.713
+Blades of Brim|com.sybogames.brim|SYBO Games|Action|Free|Android|149760|4.736
+New Launcher 2018|com.gau.go.launcherex.theme.newlauncher2017|Launcher 2018|Personalization|Free|Android|148383|4.416
+Iron Kill|com.playmotionsg.ironkill|Play Motion Games|Action|Free|Android|146094|4.517
+Water Slide 3D VR|com.wordmobile.waterslide|Words Mobile|Action|Free|Android|146289|4.075
+Thug Life Photo Maker Editor|com.thuglife.photostudio|Live Star Empires Dev|Photography|Free|Android|151032|4.557
+CM FILE MANAGER HD|com.rhmsoft.fm.hd|CM FILE MANAGER|Productivity|Free|Android|145767|4.332
+Motorola Update Services|com.motorola.ccc.ota|Motorola Mobility LLC.|Tools|Free|Android|151143|3.959
+Block Gun 3D|com.wizardgames.bg3dGO|App Holdings|Action|Free|Android|142931|3.851
+KUBOOM|com.Nobodyshot.kuboom|nobodyshot|Action|Free|Android|148785|4.428
+Flashlight|com.lampe.torcher.flashlight|Zentertain|Productivity|Free|Android|142815|4.311
+GO Launcher Prime (Trial)|com.gau.go.launcherex.key.getjar|GOMO Go|Personalization|Free|Android|142457|4.296
+Block Force - Cops N Robbers|com.riovox.gog|Riovox|Action|Free|Android|141992|4.137
+Cameringo Lite. Filters Camera|com.perracolabs.cpd|Perraco Labs|Photography|Free|Android|142466|4.197
+Reigns|com.devolver.reigns|DevolverDigital|Card|$2.99|Android|142049|4.744
+Money Manager Expense & Budget|com.realbyteapps.moneymanagerfree|Realbyte Inc.|Finance|Free|Android|148366|4.631
+iRunner|com.droidhen.irunner|Droidhen Casual|Action|Free|Android|141597|4.513
+500 fonts - Text on Photo|com.petales.fonts|Petales|Photography|Free|Android|145323|4.816
+BRI Mobile|bri.delivery.brimobile|PT Bank Rakyat Indonesia (Persero) Tbk.|Finance|Free|Android|144858|4.133
+Nun Attack|com.frimastudio.RunAndGun|Frima Studio Inc.|Action|Free|Android|140788|4.297
+PFI|melchindmitry.oncreate.pfi|PFI Apps|Finance|Free|Android|140187|4.593
+Zombie Call|com.tbegames.and.zombie_shooter|ThunderBull Entertainment|Action|Free|Android|140247|4.162
+Motor Hero!|com.orangenose.riskyrider|Orangenose Studio|Action|Free|Android|139212|4.595
+Chicken Boy|com.funtomic.chicken_boy|Funtomic|Action|Free|Android|138782|4.175
+Tomb of the Mask|com.playgendary.tom|Playgendary|Action|Free|Android|234362|4.249
+Death Shooter 2 |com.icloudzone.DeathShooter2|Icloudzone Shooter GAMES|Action|Free|Android|138809|4.048
+Snail Battles|com.fxb.razor|CanaryDroid|Action|Free|Android|138215|4.413
+Venmo|com.venmo|PayPal, Inc.|Finance|Free|Android|149565|4.661
+PicMix - Selfie and Friends|com.picmix.mobile|Inovidea Magna Global|Photography|Free|Android|138132|4.207
+DEAD WARFARE|com.vng.android.mps.dead.zombie2|VNG GAME STUDIOS|Action|Free|Android|156363|4.579
+Poster Maker, Flyer Designer, Ads Page Designer|com.coolapps.postermaker|Photo Cool Apps|Photography|Free|Android|144473|4.725
+Death Shooter 3D|com.icloudzone.DeathShooter|Icloudzone Shooter GAMES|Action|Free|Android|137380|3.981
+Yahoo Finance|com.yahoo.mobile.client.android.finance|Yahoo|Finance|Free|Android|143045|4.385
+Cut Paste Photo Seamless Edit|com.eabdrazakov.photomontage|Photo2Photo|Photography|Free|Android|145391|4.069
+Honkai Impact 3|com.miHoYo.bh3oversea|miHoYo Limited|Action|Free|Android|152338|4.754
+All bank Money Manager, Track Bank balance & Cards|com.daamitt.walnut.app|Walnut - #1 Expense Tracker India|Finance|Free|Android|140707|4.438
+SelfieCity|com.meitu.wheecam|Meitu, Inc.|Photography|Free|Android|137199|4.56
+Podcast Player|com.podcast.podcasts|Castbox.FM - Radio & Podcast & AudioBook|News and Magazines|Free|Android|142402|4.569
+Pockets-UPI, Wallet, Bharat QR|com.icicibank.pockets|ICICI Bank Ltd.|Finance|Free|Android|138313|4.189
+Smash|com.magmamobile.game.Smash|Magma Mobile|Action|Free|Android|136373|3.816
+Wallpapers for Chat|com.MegaBit.EwaWP|MegaBit|Personalization|Free|Android|136225|4.15
+Hunting Jungle Animals|com.amech.hunting.jungle.animals|AbsoMech|Action|Free|Android|136681|3.872
+Jump Ball Blast|com.xchange.JumpBall|XCHANGE|Action|Free|Android|199744|4.648
+Digital Clock Widget Xperia|com.sonyericsson.digitalclockwidget2|Lazar Dimitrov|Personalization|Free|Android|135963|4.209
+Nubank|com.nu.production|Nubank|Finance|Free|Android|142101|4.644
+DigiCal Calendar Agenda|com.digibites.calendar|Digibites|Productivity|Free|Android|137520|4.372
+Carnivores|com.tatem.dinhunterhd|Tatem Games Inc.|Action|Free|Android|135332|4.182
+Emoji Keyboard - Cute Emoji,GIF, Sticker, Emoticon|com.smartkeyboard.emoji|Sunspot Widgets.|Personalization|Free|Android|143515|4.742
+Fight Club - Fighting Games|com.integergames.fightclub|Integer Free Games|Action|Free|Android|134070|4.44
+Doraemon Gadget Rush|com.animoca.google.doraemonpuzzle|Animoca|Action|Free|Android|133993|4.198
+Sniper|com.ffgames.sniper|Fast Free Games|Action|Free|Android|133584|3.675
+Heroes of Destiny|com.glu.epicheroes|My.com B.V.|Action|Free|Android|133019|4.417
+Wave Keyboard Background - Animations, Emojis, GIF|com.wave.keyboard|Wave Keyboard Design Studio|Personalization|Free|Android|136715|4.57
+Stick Fight 2|com.technull.stickfight2|TNSoftware|Action|Free|Android|137110|4.616
+ClevMoney - Personal Finance|com.dencreak.spbook|Cleveni Inc.|Finance|Free|Android|137480|4.739
+Blur Image Background|com.outthinking.imageblur|ANDROID PIXELS|Photography|Free|Android|133026|3.951
+Photo Editor|com.zentertain.photoeditor2|Video Note LLC|Photography|Free|Android|133426|4.234
+BuzzFeed|com.buzzfeed.android|BuzzFeed|News and Magazines|Free|Android|131628|4.32
+Eye Color Studio|com.modiface.eyecolor|ModiFace|Photography|Free|Android|131546|4.083
+True Skate|com.trueaxis.trueskate|True Axis|Sports|$1.99|Android|132075|4.378
+American Block Sniper Survival|com.topgamestudio.americanblocksnipersurvival|Aeria Canada|Action|Free|Android|135543|4.346
+Camera FV-5 Lite|com.flavionet.android.camera.lite|FGAE|Photography|Free|Android|131492|4.007
+Mini Launcher - small & fast|com.jiubang.go.mini.launcher|Home Plus|Personalization|Free|Android|131370|4.459
+TCASH WALLET|com.telkom.mwallet|Telkomsel|Finance|Free|Android|140848|4.372
+APUS Flashlight-Free & Bright|com.apusapps.tools.flashtorch|APUS Tools Team|Personalization|Free|Android|130429|4.297
+3D Next Tech Theme Launcher for Huawei Samsung|cm.technology.next.live.wallpaper|Launcher 3D Pro|Personalization|Free|Android|133888|4.724
+Ma Banque|fr.creditagricole.androidapp|CREDIT AGRICOLE TECHNOLOGIES ET SERVICES|Finance|Free|Android|145027|3.816
+MUTANT ROADKILL|com.glu.wasteland|Glu|Action|Free|Android|130003|4.276
+Mobile GPS Location Tracker|com.crazyapps.mobilelocationtracker|Crazy Softech|Productivity|Free|Android|129939|4.059
+Card Wars - Adventure Time|com.turner.cardwars|Cartoon Network|Card|$2.99|Android|129959|4.282
+Money Lover|com.bookmark.money|Finsify|Finance|Free|Android|132319|4.442
+MOLDIV by JellyBus|com.jellybus.Moldiv|JellyBus Inc.|Photography|Free|Android|130457|4.333
+Mint|com.mint|Intuit Inc|Finance|Free|Android|129863|4.263
+Survival|com.topactiongames.survivor.prision.escape|Tag Action Games|Action|Free|Android|129882|3.958
+Survival Run with Bear Grylls|com.f84games.survivalrun|F84 Games|Action|Free|Android|128853|4.195
+Zombie Waves 3D|com.machinga.zombiewaves1_1|MACHINGA|Action|Free|Android|128596|3.973
+Color Flash Launcher - Call Screen, Themes|com.callerscreen.color.phone.ringtone.flash|Finger Studios|Personalization|Free|Android|251065|4.699
+K PLUS|com.kasikorn.retail.mbanking.wap|KASIKORNBANK PCL.|Finance|Free|Android|135706|4.349
+Watch Dogs Companion |com.ubisoft.watchdogs.ctos|Ubisoft Entertainment|Action|Free|Android|127701|3.903
+Photo Collage Editor|com.fortunetechlab.photo.grid.shape.collage|Fortune Techlab|Photography|Free|Android|127903|3.864
+Stickman Impossible Run|com.djinnworks.StickmanImpossibleRun|Djinnworks GmbH|Action|Free|Android|127047|3.497
+Keep My Notes - Notepad & Memo|org.whiteglow.keepmynotes|LiteWhite|Productivity|Free|Android|135351|4.569
+Photo Collage Editor & Collage Maker - Quick Grid|mobi.charmer.collagequick|Video Editor & Photo Editor Apps|Photography|Free|Android|128693|4.617
+ASUS Gallery|com.asus.gallery|ZenUI, ASUS Computer Inc.|Photography|Free|Android|128447|4.327
+Flippy Bottle Extreme!|com.mostplayed.flippybottle|Most Played Games|Action|Free|Android|126945|4.537
+Banorte Movil|org.microemu.android.model.common.VTUserApplicationBNRTMB|Banorte Mobile Team|Finance|Free|Android|149535|4.214
+Collage Maker - Photo Editor & Photo Collage|photoeditor.layout.collagemaker|InShot Inc.|Photography|Free|Android|139636|4.743
+West Gunfighter|com.cg.cowboy|Candy Mobile|Action|Free|Android|136253|4.558
+Hambo|com.miniclip.hambo|Miniclip.com|Action|Free|Android|125620|4.351
+Retro Camera|com.onemanwithcameralomo|Wise Shark Software|Photography|Free|Android|125590|4.041
+Daily Expenses 3|mic.app.gastosdiarios|Michel Carvajal|Finance|Free|Android|128149|4.54
+Sparkasse   Ihre mobile Filiale|com.starfinanz.smob.android.sfinanzstatus|Star Finanz GmbH|Finance|Free|Android|135114|4.372
+Air Camera- Photo Editor, Collage, Filter|com.apus.camera.id|XPRO DEV|Photography|Free|Android|152064|4.354
+Electric Screen Live Wallpaper|pl.infinzmedia.electricscreenfree|iim mobile|Personalization|Free|Android|124581|3.551
+WithstandZ - Zombie Survival!|com.Kazeta.WithstandZ|Quaternions Inc.|Action|Free|Android|127028|4.33
+ANT+ Plugins Service|com.dsi.ant.plugins.antplus|ANT+|Health and fitness|Free|Android|129535|3.322
+dfndr performance|com.psafe.cleaner|PSafe|Productivity|Free|Android|126798|4.651
+Robot Fighting 2 - Minibots 3D|com.realfightinggp.RobotFighting2MinibotBattle3D|Real Fighting|Action|Free|Android|125304|4.084
+Do It Later|com.asus.task|ZenUI, ASUS Computer Inc.|Productivity|Free|Android|124510|4.507
+Start|com.celltick.lockscreen|Celltick|Personalization|Free|Android|125290|4.2
+Stickman And Gun|com.raongames.stickmanandgun|RAON GAMES|Action|Free|Android|126512|4.331
+Brightest Flash LED Lights|com.flashlight.brightest.beacon.torch|Flashlight Group|Productivity|Free|Android|125456|4.629
+Warhammer 40,000|com.pixeltoys.freeblade|Pixel Toys|Action|Free|Android|124291|4.602
+Video Maker|com.video.maker|Multimedia Apps|Photography|Free|Android|122742|3.902
+Motorola Gallery|com.motorola.MotGallery2|Motorola Mobility LLC.|Video Players|Free|Android|123448|3.939
+RageComic - Photo Grid Plugin|com.roidapp.photogrid.plugin.stickers.rage|Cheetah Mobile Inc. (Photo Grid)|Photography|Free|Android|122108|3.887
+Modern Warplanes|com.EvilChaotic.ModernWarplanes|GDCompany|Action|Free|Android|136224|4.257
+Amazon Photos|com.amazon.clouddrive.photos|Amazon Mobile LLC|Photography|Free|Android|128868|4.536
+Clean History - Optimize|bazinga.historyclean|Bazinga!|Productivity|Free|Android|122302|4.427
+Street Skater 3D|com.mastercomlimited.streetskater|Play365|Action|Free|Android|122494|3.628
+Open Camera|net.sourceforge.opencamera|Mark Harman|Photography|Free|Android|125223|4.32
+Larva Heroes|com.mrgames.larvaheroessocial.fb|Mr.Games|Action|Free|Android|121082|4.344
+Sniper Killer Shooter|com.sniper.feeling|D3.|Action|Free|Android|121155|4.036
+AppLock Theme Beam|com.domobile.aut.bbeam|AppLock DoMobile|Productivity|Free|Android|120180|3.911
+Royal Revolt!|com.flaregames.royalrevolt|Flaregames|Action|Free|Android|120162|4.343
+Pic Frames |com.picframes.android|Pavan Kumar Reddy. D|Photography|Free|Android|119946|3.888
+Counter Terrorist Shoot|com.counter.terrorists.swat.attack|Doing Studio|Action|Free|Android|126046|4.28
+Revolut - Better than your bank|com.revolut.revolut|Revolut Ltd|Finance|Free|Android|147551|4.803
+SCB EASY|com.scb.phone|Siam Commercial Bank PCL.|Finance|Free|Android|135928|4.294
+Meipai|com.meitu.meipaimv|Meitu, Inc.|Photography|Free|Android|119738|4.038
+YouCam Nails - Manicure Salon for Custom Nail Art|com.perfectcorp.ycn|Perfect Corp.|Beauty|Free|Android|120693|4.421
+Ninja Kid Run Free - Fun Games|com.fungames.ninjarunfree|Fun Games For Free|Action|Free|Android|119839|4.143
+Counter Attack - Multiplayer FPS|com.SevenBulls.CounterAttackShooter|Seven Bulls Games|Action|Free|Android|125103|4.26
+Metal Squad|com.sora.metal.squad|ONESOFT|Action|Free|Android|127877|4.433
+IFTTT|com.ifttt.ifttt|IFTTT|Productivity|Free|Android|120910|4.273
+Wings on Fire - Endless Flight|com.skgames.wingsonfiregame|Soner Kara|Action|Free|Android|119525|4.112
+Flowers Live Wallpaper|com.FlowersLiveWallpaperHQ|Live Wallpaper HQ|Personalization|Free|Android|118789|4.118
+The Fear |com.geneticstudios.thefear|Boomerang Games|Action|Free|Android|118230|4.319
+RainbowKey Keyboard|com.keyboard.colorkeyboard|iHandy Ltd.|Personalization|Free|Android|118567|4.742
+JioMags - Digital Magazines|com.jio.media.jiomags|Reliance Industries Ltd.|News and Magazines|Free|Android|119372|4.432
+mBank PL|pl.mbank|mBank S.A.|Finance|Free|Android|121952|4.577
+8.1 Metro Look Launcher 2018 - Theme, Smart, DIY|com.lw.wp8Xlauncher|Launchers World|Personalization|Free|Android|118508|4.244
+PixelLab - Text on pictures|com.imaginstudio.imagetools.pixellab|App Holdings|Photography|Free|Android|123787|4.638
+Photo Editor|com.outthinking.photo|ANDROID PIXELS|Photography|Free|Android|117822|4.078
+Thunderstorm Free Wallpaper|fishnoodle.storm_free|Kittehface Software|Personalization|Free|Android|115824|4.011
+PagSeguro Minha Conta|br.com.uol.ps.myaccount|UOL Inc.|Finance|Free|Android|167690|4.771
+LastPass Password Manager|com.lastpass.lpandroid|LogMeIn, Inc.|Productivity|Free|Android|117912|4.549
+Monefy - Money Manager|com.monefy.app.lite|Aimbity AS|Finance|Free|Android|119473|4.586
+My Etisalat|com.etisalat|Etisalat Misr|Productivity|Free|Android|123946|4.464
+Photo Gallery & Album|media.album.photo.gallery|Easyelife|Photography|Free|Android|117127|4.324
+Amazing Ninja|com.ketchapp.ninja|Ketchapp|Action|Free|Android|114539|3.535
+Lloyds Bank Mobile Banking|com.grppl.android.shell.CMBlloydsTSB73|Lloyds Banking Group PLC|Finance|Free|Android|119857|4.506
+Beauty Camera - Selfie Camera|com.northpark.beautycamera|InShot Inc.|Beauty|Free|Android|113883|4.022
+Happy Diwali AppLock Theme|com.cleanmaster.security.applock.diwali|Cheetah Mobile (AppLock & AntiVirus)|Productivity|Free|Android|113779|4.223
+Ridmik Keyboard|ridmik.keyboard|Ridmik Labs|Productivity|Free|Android|120649|4.529
+Annelids|cz.gdmt.AnnelidsDemo|Michal Srb|Action|Free|Android|120799|4.382
+BBC News|bbc.mobile.news.uk|Media Applications Technologies for the BBC|News and Magazines|Free|Android|116007|3.935
+DUAL!|com.Seabaa.Dual|Seabaa|Action|Free|Android|114514|4.197
+Marmok's Team Monster Crush|com.taptics.marmokIdle|Taptics|Action|Free|Android|121428|4.831
+Waterfall Live Wallpaper|com.WaterfallLiveWallpaper|Live Wallpaper HD 3D|Personalization|Free|Android|113457|4.12
+Photo FX Live Wallpaper|slide.photoWallpaper|androidslide|Personalization|Free|Android|113189|4.023
+Slide|company.fortytwo.slide.app|42 Company|News and Magazines|Free|Android|113376|3.956
+NatWest Mobile Banking|com.rbs.mobile.android.natwest|The Royal Bank of Scotland PLC|Finance|Free|Android|117230|4.584
+Petals 3D live wallpaper|com.SkyDivers.petals3d|SkyDivers|Personalization|Free|Android|112548|4.188
+Super Speed Cleaner|com.hyperspeed.rocketclean.pro|Hyper Speed|Productivity|Free|Android|189716|4.779
+Cobo Launcher Easily DIY Theme|app.cobo.launcher|IKMY TECH|Personalization|Free|Android|112318|4.44
+Lose Weight - Slimming!|com.ssc.fitfat|Candy Mobile|Action|Free|Android|112172|3.357
+Flip Water Bottle|com.junerking.bottle|Candy Mobile|Action|Free|Android|112335|4.323
+GO Cleaner & Task Manager|com.gau.go.launcherex.gowidget.taskmanagerex|GOMO Limited|Productivity|Free|Android|112059|4.353
+MIX by Camera360|com.pinguo.edit.sdk|PinGuo Inc.|Photography|Free|Android|112642|4.374
+2 Battery - Battery Saver|com.a0soft.gphone.aDataOnOff|Sam Lu|Productivity|Free|Android|111821|4.198
+GO Launcher EX UI5.0 theme|com.gau.go.launcherex.theme.defaultthemethree|GOMO Go|Personalization|Free|Android|111607|4.33
+SHADOWGUN LEGENDS|com.madfingergames.legends|MADFINGER Games|Action|Free|Android|121920|4.565
+Dainik Bhaskar - Hindi News App|com.ak.ta.dainikbhaskar.activity|Dainik Bhaskar Group|News and Magazines|Free|Android|121286|4.07
+ABP LIVE News|com.winit.starnews.hin|ABP News Network|News and Magazines|Free|Android|118956|4.182
+Dinosaur Hunter|com.dinosaurhunter.survivalgame|Sergey Laytful|Action|Free|Android|111113|4.023
+Memory Booster - RAM Optimizer|imoblife.memorybooster.lite|AIO Software Technology CO., Ltd.|Productivity|Free|Android|111549|4.343
+Gang War Mafia|com.skylicht.gangvsmafia|VTC Academy|Action|Free|Android|112799|4.675
+Modern Combat Versus|com.gameloft.android.ANMP.GloftMVHM|Gameloft|Action|Free|Android|112642|3.852
+Dino Island|com.junerking.dragon|Doodle Mobile Ltd.|Action|Free|Android|109686|4.384
+INFINITY OPS|com.gamedevltd.destinywarfare|Azur Interactive Games Limited|Action|Free|Android|122326|4.395
+Farm Invasion USA|com.hg.farminvasionfree|HandyGames|Action|Free|Android|108573|4.494
+Cerberus anti theft|com.lsdroid.cerberus|LSDroid|Productivity|Free|Android|108989|4.344
+Topbuzz|com.ss.android.article.mynews.br|TopBuzz Global|News and Magazines|Free|Android|110098|4.553
+Kingdom Rush Frontiers|com.ironhidegames.android.kingdomrushfrontiers|Ironhide Game Studio|Strategy|$1.99|Android|109630|4.733
+Cat Simulator |com.hgamesart.catsimulator|HGamesArt|Action|Free|Android|110212|4.376
+Neon 2 HD Wallpapers - Themes 2018|com.ksmobile.launcher.theme.neonlife|Nick Suthar|Personalization|Free|Android|107813|4.345
+DIGI Clock Widget|sk.michalec.SimpleDigiClockWidget|ForestTree|Personalization|Free|Android|108408|4.501
+Modern War by GREE|jp.gree.modernwar|Funzio Games, Inc|Action|Free|Android|107244|4.088
+Storm of Darkness|com.feelingtouch.sod|Mountain Lion|Action|Free|Android|107665|3.898
+RetroSelfie - Selfie Editor|com.iovchev.selfieseditor|RetroSelfie Apps|Photography|Free|Android|107486|4.078
+Zombie Shooter - Survive the undead outbreak|com.sigmateam.zombieshooter.free|Sigma Team|Action|Free|Android|107924|4.549
+LemoCam - Selfie, Fun Sticker, Beauty Camera|com.ss.android.eyeu|Bytemod pte Ltd|Photography|Free|Android|109010|4.454
+Automatic Call Recorder & Hide App Pro-callBOX|com.smsrobot.callbox|SMSROBOT LTD (Auto Call Recorder, Period Tracker)|Productivity|Free|Android|125524|4.589
+Business Calendar 2|com.appgenix.bizcal|Appgenix Software|Productivity|Free|Android|110215|4.61
+Scribblenauts Remix|com.wb.goog.scribbleremix|Warner Bros. International Enterprises|Puzzle|$0.99|Android|105900|4.232
+Pixel Strike 3D|com.pixellabs.pixelstrike3d|Vulcron|Action|Free|Android|109066|4.406
+Garena AOV - Arena of Valor|com.garena.game.kgsam|Garena Games Online|Action|Free|Android|116746|4.337
+Zombie Objective|com.killerbeanstudios.zombieobjective|Killer Bean Studios|Action|Free|Android|105987|4.303
+Tambu Keyboard|com.tambu.keyboard|Argela|Personalization|Free|Android|108634|4.653
+Adobe Scan|com.adobe.scan.android|Adobe|Productivity|Free|Android|128327|4.57
+Defender III|com.droidhen.defender3|DroidHen|Action|Free|Android|108216|4.41
+Al Rajhi Bank KSA|sa.alrajhibank.app|Al Rajhi Bank|Finance|Free|Android|117347|4.772
+Jungle Castle Run 3|com.junglecastleboy3.apt|Simplified Apps|Action|Free|Android|104625|3.926
+Navy Gunner Shoot War 3D|com.topactiongames.gunner.shootwar3d|Tag Action Games|Action|Free|Android|104947|4.034
+Paladins Strike|com.djwl.PLD3|Hi-Rez Studios, Inc.|Action|Free|Android|107388|3.928
+SPIEGEL ONLINE - News|de.spiegel.android.app.spon|SPIEGEL ONLINE GmbH|News and Magazines|Free|Android|105779|4.385
+BaconReader for Reddit|com.onelouder.baconreader|OneLouder Apps|News and Magazines|Free|Android|103533|4.529
+Gun Club 3|com.nextgenreality.gunclub3|The Binary Mill|Action|Free|Android|103245|4.178
+ASUS Calling Screen|com.asus.asusincallui|ZenUI, ASUS Computer Inc.|Productivity|Free|Android|104322|4.246
+Gallery|com.vyom.gallery|TVK|Photography|Free|Android|109334|4.448
+Armada|com.extremedevelopers.armada|Extreme Developers|Action|Free|Android|105364|4.415
+Clean My Android|com.clean.security.memory.booster.battery|CMA Mobile Team|Productivity|Free|Android|105385|4.671
+Kompas.com|com.ertanto.kompas.official|Kompas Digital|News and Magazines|Free|Android|104301|4.294
+Amazing Strange Rope Police - Vice Spider Vegas|com.hgamesart.ropeboy|HGamesArt|Action|Free|Android|115017|4.299
+Next Lock Screen|com.microsoft.next|Microsoft Corporation|Productivity|Free|Android|103459|4.271
+BLOOD & GLORY|com.glu.bgc|Glu|Action|Free|Android|102977|4.258
+Shutterfly|com.shutterfly|Shutterfly, Inc|Photography|Free|Android|108665|4.616
+USAA Mobile|com.usaa.mobile.android.usaa|USAA|Finance|Free|Android|106814|4.548
+Photo Art - Color Effects|com.funfactory.photoeditor|Fun Factory|Photography|Free|Android|101815|3.788
+Five Nights at Freddy's|com.scottgames.fivenightsatfreddys|Scott Cawthon|Action|$2.99|Android|102429|4.574
+Construction Simulator 2014|com.astragon.cs2014|astragon Entertainment GmbH|Simulation|$0.99|Android|102200|4.339
+Facejjang|com.appster.facejjang|Sangmin Bang|Photography|Free|Android|102603|4.133
+Mad GunZ - Battle Royale, online, shooting games|com.mad.gunz|Mad Pixel LTD|Action|Free|Android|117146|4.603
+The real aquarium - HD|alpha.aquarium.hd.livewallpaper|Memento Apps|Personalization|Free|Android|102230|4.347
+Snake Off - More Play,More Fun|com.wepie.snakeoff|T-TIME|Action|Free|Android|101107|4.648
+NDTV News - India|com.july.ndtv|NDTV Official App|News and Magazines|Free|Android|101767|4.111
+Block Ops II FREE|com.ammonite.blockops2Free|Ammonite Design Studios Ltd|Action|Free|Android|100998|3.633
+BHIM SBI Pay|com.sbi.upi|State Bank of India|Finance|Free|Android|132591|4.383
+WarFriends|com.chillingo.warfriends.android.gplay|CHILLINGO|Action|Free|Android|103138|4.603
+Logo Maker Plus - Graphic Design & Logo Creator|com.logopit.logoplus|Logopit - Logo Maker & Graphic Design Creator|Photography|Free|Android|107623|4.697
+Last Hope - Zombie Sniper 3D|com.JESoftware.ZombieDefence|JE Software AB|Action|Free|Android|100807|4.279
+MX Player Pro|com.mxtech.videoplayer.pro|J2 Interactive|Video Players|$5.99|Android|101828|4.678
+Goat Simulator|com.coffeestainstudios.goatsimulator|Coffee Stain Publishing|Simulation|$4.99|Android|100313|4.285
+Range Shooter|mobi.gameguru.rangeshooter|Gameguru|Action|Free|Android|101333|4.506
+Ben 10|com.heliosinteractive.ben10|Cartoon Network|Action|Free|Android|108786|4.227
+Easy Currency Converter|com.easy.currency.extra.androary|ExtraAndroary|Finance|Free|Android|100265|4.336
+Super Dynamite Fishing|com.hg.dynamitefishingfree|HandyGames|Action|Free|Android|99869|4.467
+Arabic for ai.type keyboard|com.aitype.android.lang.ar|ai.type|Productivity|Free|Android|100200|4.22
+BPI|com.fronde.mbanking.android.pckg.bpi|BANK OF THE PHILIPPINE ISLANDS (BPI)|Finance|Free|Android|101301|4.266
+ADW Theme Samoled|saf.adw.theme.samoled|Sergio Andre Fagundes|Personalization|Free|Android|99196|4.052
+Galaxy Flashlight|pl.nenter.app.flashlight|Szymon Dyja|Productivity|Free|Android|102076|4.832
+Super Cat Bros|com.FDGEntertainment.SuperCatBros.gp|FDG Entertainment GmbH & Co.KG|Action|Free|Android|104223|4.814
+PUBG MOBILE LITE|com.tencent.iglite|Tencent Games|Action|Free|Android|164450|4.322
+News Suite by Sony|com.sony.nfx.app.sfrc|Sony Network Communications Inc.|News and Magazines|Free|Android|99841|4.143
+Photo Editor Collage MAX|com.jessdev.socphotoeff|Jess Development|Photography|Free|Android|99342|4.369
+Economic Times |com.et.reader.activities|Times Internet Limited|News and Magazines|Free|Android|107801|4.362
+Ultimate Photo Blender / Mixer|com.irisstudio.photomixer|Iris Studios and Services|Photography|Free|Android|106380|4.626
+Mini DAYZ|com.bistudio.minidayz|Bohemia Interactive a.s.|Action|Free|Android|101155|4.09
+Stickman Rope Hero 2|com.mgc.stickman.rope.hero.two|Naxeex LLC|Action|Free|Android|100930|4.327
+Beautiful Theme|com.badroboapps.beautiful|Robo Design Apps|Personalization|Free|Android|97907|4.053
+Beautiful Widgets Pro|com.levelup.beautifulwidgets|LevelUp Studio|Personalization|$2.49|Android|97908|4.222
+TunaiKita - Online Loans Made Easy|com.tunaikita.cashloan|PT. Digital Tunai Kita|Finance|Free|Android|116031|4.399
+Mobile Banking UniCredit|com.unicredit|UniCredit S.p.A.|Finance|Free|Android|101653|4.336
+Hopeless 2|com.upopa.hopeless2|Upopa Games|Action|Free|Android|98498|4.557
+Photofy Content Creation Tool|com.photofy.android|Photofy, Inc.|Photography|Free|Android|98046|4.261
+Photo & Picture Resizer|com.simplemobilephotoresizer|farluner apps & games|Photography|Free|Android|102063|4.595
+Color Tunnel|com.maatto.rush|ZIGL|Action|Free|Android|97975|4.244
+Stickman Base Jumper 2|com.djinnworks.sbj2|Djinnworks GmbH|Action|Free|Android|97905|4.8
+Sense Home Launcher-News,Theme|com.htc.launcher|HTC Corporation|News and Magazines|Free|Android|97954|3.984
+Bancolombia App Personas|com.todo1.mobile|Bancolombia S.A.|Finance|Free|Android|100920|4.28
+Soundtrack Attack|com.turner.StevenRhythm2016|Cartoon Network|Action|Free|Android|97161|4.262
+Sultan|com.NNGames.sultan|99Games|Action|Free|Android|98009|4.253
+The Amazing Spider-Man|com.gameloft.android.ANMP.GloftAMHM|Gameloft|Action|$6.99|Android|97085|3.967
+TUNAIKU|com.tunaikumobile.app|PT Bank Amar Indonesia|Finance|Free|Android|111378|4.402
+Ice Wolf 3D Theme|theme.ice.wolf.game.thrones|Launcher 3D Pro|Personalization|Free|Android|98914|4.716
+Gun Strike Shoot|com.gs.gunshoot|D3.|Action|Free|Android|97114|4.136
+Device Info Live WallPaper|jp.main.kurousa.android.livewallpaper.DeviceInfo|kurousa|Personalization|Free|Android|95654|3.902
+Chuck E.'s Skate Universe|com.cec.skateuniverse|Chuck E. Cheese's|Action|Free|Android|95653|3.943
+Live Wallpapers of LoL|com.sysoft.lollivewallpapers|SySoft|Personalization|Free|Android|96258|4.656
+File Expert - file manager|xcxin.filexpert|GMobile Apps|Productivity|Free|Android|95425|4.37
+Shadow Battle 2.2|com.shadow.battle.superhero|ONESOFT|Action|Free|Android|101230|4.364
+FOCUS Online - Nachrichten|de.cellular.focus|FOCUS Online|News and Magazines|Free|Android|96264|4.36
+Ben10 Vengeance of Vilgax FREE|com.globalfun.b10vilgax|GlobalFun Games|Action|Free|Android|96365|4.019
+HP Smart (Printer Remote)|com.hp.printercontrol|HP Inc.|Productivity|Free|Android|99057|4.206
+Grand Theft Auto III|com.rockstar.gta3|Rockstar Games|Action|$4.99|Android|95567|3.98
+Smoke G3 Live Wallpaper|com.androidwasabi.livewallpaper.g3|Wasabi|Personalization|Free|Android|95024|3.812
+Pixgram- video photo slideshow|com.swiitt.pixgram|Swiitt Computing Inc.|Photography|Free|Android|95853|4.244
+Rain Live Wallpaper|com.blackbirdwallpapers.rain|BlackBird Wallpapers|Personalization|Free|Android|94734|4.291
+3Q 360mobi 3D|com.vng.moba3qcuhanh|VNG Game Publishing|Action|Free|Android|94979|3.804
+VivaVideo PRO Video Editor HD|com.quvideo.xiaoying.pro|QuVideo Inc. Best Video Editor & Video Maker App|Video Players|$2.99|Android|95329|4.562
+Photo Collage - Collage Maker|com.fotoable.photocollage|Fotoable,Inc.|Photography|Free|Android|95562|4.406
+MySTC|com.stc|STC|Productivity|Free|Android|110250|4.279
+India News,Latest News App,Top Live News Headlines|com.til.timesnews|Times Internet Limited|News and Magazines|Free|Android|98817|4.29
+Aaj Tak Live TV News - Latest Hindi News India|in.AajTak.headlines|Living Media India limited|News and Magazines|Free|Android|95716|4.168
+Earth HD Free Edition|ru.gonorovsky.kv.livewall.earthhd|Mozg Labs|Personalization|Free|Android|93462|4.159
+World Clock & Widget|tm.app.worldClock|NRS Magic LTD|Productivity|Free|Android|94111|4.338
+Stickman Battlefields|com.rsz.StickmanBattlefields|Djinnworks GmbH|Action|Free|Android|93458|4.234
+Crystal S5 Live Wallpaper|com.androidwasabi.livewallpaper.s5|Wasabi|Personalization|Free|Android|93179|4.199
+Photo Cartoon Camera- PaintLab|com.fotoable.paintlab|Weather Radar Forecast|Photography|Free|Android|93123|4.099
+3D Wallpapers|com.goodwallpapers.tapety_3d_vectorial|Best of the best|Personalization|Free|Android|93025|4.017
+FZ9|vn.com.hikergames.fpsfreeze|HIKER GAMES|Action|Free|Android|95269|4.43
+Target|com.target.ui|Target Corporation|Shopping|Free|Android|79819|4.2
+iPicTheaters|com.ipictheaters.ipic|iPic Entertainment LLC|Entertainment|Free|Android|103|3.3
